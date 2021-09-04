@@ -19,7 +19,7 @@ class NotesPage extends React.Component {
 	}
 
 	renderCards(notes) {
-		return notes.map((n) => <NotesCard number={n.number} title={n.title} outDate={n.outDate} active={n.active} links={n.links} tags={n.tags}/>)
+		return notes.map((n) => <NotesCard number={n.number} title={n.title} outDate={n.outDate} active={n.active} links={n.links} tags={n.tags} />)
 	}
 
 	toggleTag(tag) {
@@ -27,13 +27,13 @@ class NotesPage extends React.Component {
 		if (this.state.activeTags.includes(tag)) {
 			activeTags = this.state.activeTags.filter((t) => t !== tag)
 		} else { activeTags = activeTags.concat(tag); }
-		this.setState({activeTags})
+		this.setState({ activeTags })
 	}
 
 	renderTags() {
 		const tags = this.state.allTags;
 		const active = this.state.activeTags;
-		return tags.map((t) => 
+		return tags.filter((t) => t).map((t) =>
 			<p className={"notes-filter-tag" + (this.state.activeTags.includes(t) ? " active-filter-tag" : "")}
 				onClick={() => this.toggleTag(t)}>{t}</p>
 		)
@@ -44,8 +44,8 @@ class NotesPage extends React.Component {
 		if (notes[0].tags !== undefined) {
 			let allTags = notes.map((n) => n.tags).flat();
 			allTags = [...new Set(allTags)];
-			this.setState({allTags, renderTags: true});
-		} else { this.setState({allTags: [], renderTags: false}) }
+			this.setState({ allTags, renderTags: true });
+		} else { this.setState({ allTags: [], renderTags: false }) }
 	}
 
 	componentDidMount() {
@@ -61,8 +61,8 @@ class NotesPage extends React.Component {
 
 	render() {
 		let filteredNotes = this.props.notes;
-		if (this.state.activeTags.length > 0) { 
-			filteredNotes = filteredNotes.filter((n) => n.tags.some((t) => this.state.activeTags.includes(t))); 
+		if (this.state.activeTags.length > 0) {
+			filteredNotes = filteredNotes.filter((n) => n.tags !== undefined && n.tags.some((t) => this.state.activeTags.includes(t)));
 		}
 		const renderedNotes = this.renderCards(filteredNotes);
 
@@ -86,12 +86,12 @@ class NotesPage extends React.Component {
 					<div className="notes-right-wrapper">
 						{
 							this.state.renderTags ?
-							<div className="notes-filter-wrapper">
-								<p className="notes-filter-text">Filter by Tags</p>
-								{this.renderTags()}
-								<p className="notes-filter-clear" onClick={() => this.setState({activeTags: []})}>Clear...</p>
-							</div>				
-							:<></>
+								<div className="notes-filter-wrapper">
+									<p className="notes-filter-text">Filter by Tags</p>
+									{this.renderTags()}
+									<p className="notes-filter-clear" onClick={() => this.setState({ activeTags: [] })}>Clear...</p>
+								</div>
+								: <></>
 						}
 						<div className="notes-cards-wrapper">
 							{renderedNotes}
