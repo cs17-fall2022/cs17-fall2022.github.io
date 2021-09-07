@@ -9,7 +9,7 @@ import Colby from './Images/Colby.JPG';
 import Ethan from './Images/Ethan.JPG';
 import Harshini from './Images/Harshini.JPG';
 import Maceo from './Images/Maceo.JPG';
-import MinhQuan from './Images/Default.png'
+import MinhQuan from './Images/MinhQuan.JPG'
 import Neil from './Images/Neil.JPG';
 import Qinan from './Images/Qinan.JPG';
 import Vandana from './Images/Vandana.JPG';

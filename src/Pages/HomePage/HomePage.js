@@ -89,8 +89,35 @@ class HomePage extends React.Component {
 							<AnimatedImage />
 						</div>
 						<div className="home-intro-text">
-							<h1>Welcome to CS17 :)</h1>
-							<p>We want to make this the Best CS17 Ever™, and we can only do this if we know what’s best for you! We take your ideas very seriously and want to make a welcoming environment for everyone who wants to learn CS – fill out our <a href="https://forms.gle/dySMFrVgVo1iKz9Y8" target="_blank" rel="noopener noreferrer">anonymous feedback form</a> to let us know if we can do anything better!</p>
+							<h1>Welcome to CS17 :D</h1>
+							<p>
+								Welcome!! CS17 is an introductory computer science class at Brown University
+								— emphasis on introductory! Our only pre-requisite is an understanding of
+								high school algebra. Due to our unique way
+								of teaching CS with functional programming, analysis, and "no magic,"
+								students with no CS background and students with prior CS experience
+								alike often find the class interesting and new. Our hope is that you leave
+								CS17 feeling like you understand every piece of code you've written
+								and seen in the class.
+							</p>
+							<p>
+								The class assignments consists of projects, labs, homeworks, and a final take-home
+								programming exam. We encourage discussion and collaboration between classmates
+								(within the limits of our collaboration policy linked in the Resources page).
+								We also provide optional weekly workshops for conceptual questions and reinforcement
+								of concepts taught in class, as well as TA hours where you can ask questions of our
+								amazing TA staff (hours schedule to the right, hours guide linked in Resources page,
+								staff on the Staff page)!
+							</p>
+							<p>
+								We take your ideas very seriously and want to make a welcoming environment
+								for everyone who wants to learn CS — fill out our {" "}
+								<a href="https://forms.gle/Fk9jZpGrgRgeZXDg6" target="_blank" rel="noopener noreferrer">
+									anonymous feedback form
+								</a>
+								{" "} to let us know if we can do anything better!
+							</p>
+
 						</div>
 						<div className="home-links">
 							<h1>Important Links</h1>
@@ -100,7 +127,7 @@ class HomePage extends React.Component {
 					<div className="home-announcement">
 						<div>
 							<div><FaExclamation /></div>
-							<p><mark>Announcement:</mark> Come to the first class at 11 a.m. EDT, Wednesday, September 8! Metcalf Auditorium</p>
+							<p><mark>Announcement:</mark> First class at <b>11 a.m. EDT, Wednesday</b>, September 8 in <b>Metcalf Auditorium!</b></p>
 						</div>
 					</div>
 					<div className="home-due-soon">

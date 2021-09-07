@@ -24,7 +24,7 @@ const staff = [
 	{
 		name: "Thet (HTA)", login: "tzaw", image: staffImages.Thet,
 		hometown: "Brooklyn, NY", birthday: "April 6", pronouns: "he/him/his",
-		bio: ":)"
+		bio: "Hi everyone! I'm a junior studying CS and Education Studies from Brooklyn, NY. You can usually find me chilling or doing work at the Rock or the CIT. I'm also UFLI so if you have any questions about being UFLI at Brown or just want solidarity, feel free to contact me!"
 	},
 	{
 		name: "Alyssa", login: "aloo1", image: staffImages.Alyssa,

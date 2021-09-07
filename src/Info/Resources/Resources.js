@@ -1,33 +1,34 @@
 import { FaQuestion, FaSchool, FaShoePrints, FaComment, FaVideo, FaFileAlt } from 'react-icons/fa';
 
 export const ImportantLinks = [
-	{ label: "Syllabus", icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1bq2CtI6MPb-UBnYUYjGlamD-Y673cAJ5/view?usp=sharing", description: "" },
-	{ label: "Hours Guide", icon: <FaVideo />, link: "", description: "" },
+	{ label: "Syllabus", icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1MVnZXlmVYkpFUtu9w1sbgG4r4k3jM7UJ/view?usp=sharing", description: "Class info, grading, and late policy" },
+	// { label: "Hours Guide", icon: <FaVideo />, link: "https://drive.google.com/file/d/1WRehNR2n3hXs7ck9PWdRZfiT4DjFrzZ0/view?usp=sharing", description: "" },
 	{ label: "Gradescope", icon: <FaSchool />, link: "https://www.gradescope.com/", description: "Submit homework, projects, and exams" },
-	{ label: "Ed", icon: <FaQuestion />, link: "https://edstem.org/us/courses/12922/", description: "Ask clarification, debugging, and conceptual questions" },
-	{ label: "SignMeUp", icon: <FaComment />, link: "https://signmeup.cs.brown.edu/", description: "Sign up for TA hours" },
-	{ label: "Lab Assignments", icon: <FaShoePrints />, link: "", description: "To be announced" },
+	{ label: "EdStem", icon: <FaQuestion />, link: "https://edstem.org/us/join/NeMctt", description: "Ask clarification, debugging, and conceptual questions" },
+	{ label: "SignMeUp", icon: <FaComment />, link: "https://signmeup.cs.brown.edu/", description: "Sign up for TA hours or lab queues" },
+	// { label: "Lab Assignments", icon: <FaShoePrints />, link: "", description: "To be announced" },
 ]
 
 export const Resources = [
 	{
 		section: "Course Documentation", links:
 			[
-				{ label: "Course Policies/Collaboration Policy", link: "https://drive.google.com/file/d/1hWf7SbiKzixyK3B3H1Jryd9CgYajsOyZ/view?usp=sharing" },
-				{ label: "Guide to TA Hours", link: "https://drive.google.com/file/d/1cABC3l7NfIcoGJJ4v1kX9biy60creX8-/view?usp=sharing" },
-				{ label: "Pair Programming Guide", link: "https://drive.google.com/file/d/1tsxOA-v8KdLKRk3-gSnWMJpvSD5EmS_T/view?usp=sharing" },
-				{ label: "Design Recipe Guide", link: "https://drive.google.com/file/d/1SYMB8NLh5BptdaSnlPTbdwNokszjNN1X/view?usp=sharing" },
-				{ label: "Piazza Guide", link: "https://drive.google.com/file/d/1FhanZKhjaixiW3huPNS9uD8OyVgipLY0/view?usp=sharing" }
+				{ label: "Course Policies/Collaboration Policy", link: "https://drive.google.com/file/d/16PqIb7neB0P92hn3qBdij8SKIyfactEW/view?usp=sharing" },
+				{ label: "Guide to TA Hours", link: "https://drive.google.com/file/d/1WRehNR2n3hXs7ck9PWdRZfiT4DjFrzZ0/view?usp=sharing" },
+				{ label: "Pair Programming Guide", link: "https://drive.google.com/file/d/1r1iKB00Oecw2OIy4esFKAYTwo0_RM1pI/view?usp=sharing" },
+				{ label: "Design Recipe Guide", link: "https://drive.google.com/file/d/1MBMPrEI9F2YbudWRs3F-ZBI7IFYfsaoi/view?usp=sharing" },
+				{ label: "EdStem Guide", link: "https://drive.google.com/file/d/1TIWAPadWzmIRNvY0EpxnWrKZeLCI25JU/view?usp=sharing" }
 			]
 	},
 	{
 		section: "CS17 Language Guides", links:
 			[
-				{ label: "General Style Guide", link: "https://drive.google.com/file/d/1vpQYJOJzFr5lUkodyuxzn_u-KVXAMAX1/view?usp=sharing" },
-				{ label: "Racket to ReasonML", link: "https://drive.google.com/file/d/1kk7qKwy7NLLZx-gqyZRSbw9MiTF5ExVP/view?usp=sharing" },
-				{ label: "Racket Style Guide", link: "https://drive.google.com/file/d/1CHuEpQ01N6LSUBeyZer5Di1QxFDIUsvl/view?usp=sharing" },
-				{ label: "ReasonML Debugging", link: "https://drive.google.com/file/d/1SvePYEiHwqP6DMkdAcrus8UEZg3oe3QC/view?usp=sharing" },
-				{ label: "ReasonML Style Guide", link: "https://drive.google.com/file/d/1olLwJEND7l6UR_NvehxaG1yzdPq3lmZ6/view?usp=sharing" }
+				{ label: "General Style Guide", link: "https://drive.google.com/file/d/1StpKqI-hXjJtlm2RfYUSFcX_jspLR1G0/view?usp=sharing" },
+				{ label: "Racket to ReasonML", link: "https://drive.google.com/file/d/1_h0KNtVDt33bEL3v__YAb7W8jGIQmNpD/view?usp=sharing" },
+				{ label: "Racket Style Guide", link: "https://drive.google.com/file/d/1E7QvUHsHwhyJAWaB9F8tJa0VuNMNzTv8/view?usp=sharing" },
+				{ label: "ReasonML Debugging", link: "https://drive.google.com/file/d/1qvAC_sTTXlQ4cWOD5FEh8y1I2fL_nlNd/view?usp=sharing" },
+				{ label: "ReasonML Style Guide", link: "https://drive.google.com/file/d/1olLwJEND7l6UR_NvehxaG1yzdPq3lmZ6/view?usp=sharing" },
+				{ label: "Common Mistakes to Avoid", link: "https://drive.google.com/file/d/1UwMoMc-Jy3_8ob023K5dCv0Bbt5b_gb4/view?usp=sharing" },
 				// { label: "CS17 Racket Built-in Procedures and Data", link: "https://drive.google.com/file/d/1Aosl7flOkF0jdolTfrDABwrBVp2SSiQI/view?usp=sharing" },
 			]
 	},
@@ -37,7 +38,7 @@ export const Resources = [
 				// { label: "Work from Home Guide", link: "https://cs.brown.edu/about/system/connecting/ssh/" }, 
 				// { label: "SSH Guide", link: "https://drive.google.com/file/d/1PD9C5Bh7uT0dsLY0dhryPF5Kc1KG0GO_/view?usp=sharing" },
 				{ label: "Download DrRacket", link: "https://racket-lang.org/download/" },
-				{ label: "ReasonML Installation and Compilation Guide", link: "https://drive.google.com/file/d/15EEZHR86owNFpyPWo2gVkimf4XrrrdOW/view?usp=sharing" },
+				{ label: "ReasonML Installation and Compilation Guide", link: "https://drive.google.com/file/d/1oTZfr-w6bcHRIFbUA0vRSWo3RDiSwicF/view?usp=sharing" },
 				{ label: "CS17 Racket Installation Video Guide (Mac)", link: "https://drive.google.com/file/d/1wy482mD0ZCqfl8Jcz_25sKV7FeBBGML6/view?usp=sharing" },
 				{ label: "CS17 ReasonML Installation Video Guide (Mac)", link: "https://drive.google.com/file/d/1OS-7KPUnBxAquAZsez1L7N_RhjEjtjoT/view?usp=sharing" },
 				{ label: "CS17 Racket Installation Video Guide (Windows)", link: "https://drive.google.com/file/d/1GfrL5xz7HQhBbkTxKvHJ5yH4lfQk3lpv/view?usp=sharing" },
