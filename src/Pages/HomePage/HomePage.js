@@ -44,14 +44,21 @@ class HomePage extends React.Component {
 	}
 
 	renderHomeLinks() {
-		return ImportantLinks.map((l) => <div className="home-link">
-			<p className="home-link-icon">{l.icon}</p>
-			<a href={l.link} target="_blank" rel="noopener noreferrer">{l.label}</a>
-			<p className="home-link-description">{l.description}</p>
-		</div>
-		)
+		return ImportantLinks.map((l) => (
+			<div className="home-link">
+				<div>
+					<p className="home-link-icon">{l.icon}</p>
+				</div>
+				<a href={l.link} target="_blank" rel="noopener noreferrer">
+					{l.label}
+				</a>
+				<p></p>
+				<div>
+					<p className="home-link-description">{l.description}</p>
+				</div>
+			</div>
+		));
 	}
-
 	renderDueSoonCards() {
 		const curA = this.getAssignments();
 		return (
@@ -93,7 +100,7 @@ class HomePage extends React.Component {
 					<div className="home-announcement">
 						<div>
 							<div><FaExclamation /></div>
-							<p><mark>Announcement:</mark> This is the website for Spring 2021, the Fall website will be here soon!</p>
+							<p><mark>Announcement:</mark> Come to the first class at 11 a.m. EDT, Wednesday, September 8! Metcalf Auditorium</p>
 						</div>
 					</div>
 					<div className="home-due-soon">
@@ -101,7 +108,7 @@ class HomePage extends React.Component {
 						{this.renderDueSoonCards()}
 					</div>
 					<div className="home-hours">
-						<iframe title={"Google Calendar"} src="https://calendar.google.com/calendar/embed?src=brown.edu_fechjhecobm9ec4c23lp12nfuk%40group.calendar.google.com&ctz=America%2FNew_York" style={{ border: 0 }} frameborder="0" scrolling="no"></iframe>
+						<iframe title={"Google Calendar"} src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=Y182c2I2ZTgzbWczc2FmczU5ZmxqYm9lZnBpY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18zcjV0NTZhOG5uNTc3aHIzcTV1M2Z0b3JvY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23BE6D00&color=%23039BE5&mode=WEEK&showPrint=0&showDate=1&showNav=1" style={{ border: 0 }} width="800" height="600" frameborder="0" scrolling="no"></iframe>
 					</div>
 				</div>
 			</Page>
