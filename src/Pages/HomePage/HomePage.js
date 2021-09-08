@@ -127,7 +127,7 @@ class HomePage extends React.Component {
 					<div className="home-announcement">
 						<div>
 							<div><FaExclamation /></div>
-							<p><mark>Announcement:</mark> First class at <b>11 a.m. EDT, Wednesday</b>, September 8 in <b>Metcalf Auditorium!</b></p>
+							<p><mark>Announcement:</mark> Please fill out the <a href="https://forms.gle/uGQZrbPX6drrGkwk8" target="_blank" rel="noopener noreferrer"> setup form</a> {" "}by <mark>Friday, 11 p.m. EDT</mark> to be assigned a lab for this weekend!</p>
 						</div>
 					</div>
 					<div className="home-due-soon">
