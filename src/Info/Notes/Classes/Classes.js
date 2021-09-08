@@ -291,11 +291,11 @@ const classes = [
 	// 	tags: ["Racket"]
 	// },
 	{
-		number: 1, title: "Welcome", outDate: "Sept. 8", active: false,
+		number: 1, title: "Welcome", outDate: "Sept. 8", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Notes" },
-			{ icon: <FaYoutube />, link: "" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: " https://drive.google.com/file/d/1aRDxLNKS5LgFogMbLpP4fy4eYx1nIuUi/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6913ebf9-15d6-4189-b1c1-ad9d000ea3fc", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1REtJJFko79Ia5ynNBFkJsQOYPNSDhxa9/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket"]
 	},
