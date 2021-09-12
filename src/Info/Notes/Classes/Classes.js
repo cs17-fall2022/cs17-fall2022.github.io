@@ -281,15 +281,15 @@ const classes = [
 	// 	],
 	// 	tags: ["Racket", "Procedures", "Evaluation"]
 	// },
-	// { 
-	// 	number: 2, title: "BNF and Racket", outDate: "1/22/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket"]
-	// },
+	{
+		number: 2, title: "Racket and BNF", outDate: "Sept. 10", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mKyVtN26GHEzOM9Wr5nn5keaxfxPVMJL/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=384c94da-cfe3-41bc-b3ca-ad9d000ea434", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1309FD9oGnDiinlIm5FprgHQKliAJlJqE/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket", "Definitions", "Evaluation"]
+	},
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 8", active: true,
 		links: [
