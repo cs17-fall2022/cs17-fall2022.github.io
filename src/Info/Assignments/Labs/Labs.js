@@ -2,11 +2,11 @@ import { FaFileAlt, FaCode, FaFilePowerpoint } from 'react-icons/fa';
 
 const labs = [
 	{
-		number: 1, title: "Setup", dueDate: "Sept. 12-14", active: false,
+		number: 1, title: "Setup", dueDate: "Sept. 12-14", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mXvYHGNMZBPoyBVsilVGG2GjcRHKqqmS/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/file/d/16Bp62o_d1bbLSISwWkcrdNSilG3mVTLk/view?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1wHL3jiN9zAz4C1-BN4x7XCTdhdMB0tNaBzs842bxLw0/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
