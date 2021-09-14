@@ -277,7 +277,7 @@ const classes = [
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1KprJWKSNAHWYebBQjrbplXjb66jIkrkz/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e1179f3-4d55-4278-9b7e-ad9d000ea44c" },
-			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1KUxXrXp5lMQCiXqZsGNbsly6B4Ovay90/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket", "Evaluation"]
 	},
