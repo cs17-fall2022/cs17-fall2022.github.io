@@ -6,7 +6,7 @@ export const ImportantLinks = [
 	{ label: "Gradescope", icon: <FaSchool />, link: "https://www.gradescope.com/", description: "Submit homework, projects, and exams" },
 	{ label: "EdStem", icon: <FaQuestion />, link: "https://edstem.org/us/join/NeMctt", description: "Ask clarification, debugging, and conceptual questions" },
 	{ label: "SignMeUp", icon: <FaComment />, link: "https://signmeup.cs.brown.edu/", description: "Sign up for TA hours or lab queues" },
-	// { label: "Lab Assignments", icon: <FaShoePrints />, link: "", description: "To be announced" },
+	{ label: "Lab Assignments", icon: <FaShoePrints />, link: "https://docs.google.com/spreadsheets/d/1Jlm45C9B5PAb7gnZqZwyBCELIXZ7zZz0dhuPXBz9dzQ/edit?usp=sharing", description: "See lab sections" },
 ]
 
 export const Resources = [

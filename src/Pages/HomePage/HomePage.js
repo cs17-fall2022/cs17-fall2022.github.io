@@ -127,7 +127,7 @@ class HomePage extends React.Component {
 					<div className="home-announcement">
 						<div>
 							<div><FaExclamation /></div>
-							<p><mark>Announcement:</mark> Please fill out the <a href="https://forms.gle/uGQZrbPX6drrGkwk8" target="_blank" rel="noopener noreferrer"> setup form</a> {" "}by <mark>Friday, 11 p.m. EDT</mark> to be assigned a lab for this weekend!</p>
+							<p><mark>Announcement:</mark> <a href="https://docs.google.com/spreadsheets/d/1Jlm45C9B5PAb7gnZqZwyBCELIXZ7zZz0dhuPXBz9dzQ/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Lab assignments</a> {" "}are posted and start Sept. 12 — email the HTAs if you aren't on the sheet, didn't get the email with the assignments, or need to go to the virtual lab.</p>
 						</div>
 					</div>
 					<div className="home-due-soon">
