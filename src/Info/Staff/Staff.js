@@ -9,7 +9,7 @@ const staff = [
 	{
 		name: "Alex (HTA)", login: "aryan8", image: staffImages.Alex,
 		hometown: "Sammamish, WA", birthday: "June 23", pronouns: "she/her/hers",
-		bio: "Hi!! I'm a senior from Seattle studying computer science (although at this point I'm basically a polisci concentrator too). In my free time, I love solving crossword + sudoku puzzles and thinking about trains."
+		bio: "hi!! i'm a senior from the seattle area double-concentrating in computer science and political science (aka the two science majors that require no actual science). in my free time i'm an avid puzzle solver, long-suffering seattle mariners fan, and semi-professional anti-car shill (trains >>>). this is my third semester ta'ing for cs17, and i'm so excited to meet you all!!!"
 	},
 	{
 		name: "Isabel (HTA)", login: "ilai2", image: staffImages.Isabel,
