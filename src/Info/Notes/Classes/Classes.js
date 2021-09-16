@@ -263,15 +263,15 @@ const classes = [
 	// 	],
 	// 	tags: ["Design Recipe", "Racket"]
 	// },
-	// { 
-	// 	number: 4, title: "Procedures", outDate: "1/27/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Procedures", "Evaluation"]
-	// },
+	{
+		number: 4, title: "Definitions and Procedures", outDate: "Sept. 15", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1ov9jt-rqiqinhSvwtn4WpAWmqOWlsNvS/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e3a3bd0-8f4e-4051-bf8d-ad9d000ea464", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1w3ZL0_vNwPwKgRvgzs2tGercvWUPEOd1/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket", "Procedures", "Evaluation"]
+	},
 	{
 		number: 3, title: "BNF and Processing", outDate: "Sept. 13", active: true,
 		links: [
