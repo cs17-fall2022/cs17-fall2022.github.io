@@ -254,15 +254,15 @@ const classes = [
 	// 	],
 	// 	tags: ["Lists", "Racket", "Evaluation"]
 	// },
-	// { 
-	// 	number: 5, title: "Design Recipe", outDate: "1/29/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Design Recipe", "Racket"]
-	// },
+	{ 
+		number: 5, title: "Definitions and Design Recipe", outDate: "Sept. 17", active: true,
+		links: [
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1-iphHuFocH_-9QFYI8p7JoIAD2FaJZWM/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80d56dcc-3dbd-4d1f-927a-ad9d000ea47c" , label: "Recording"},
+			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1sSH-wufg2b3ikSU-0jO8AGx_NECsBk-o/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Design Recipe", "Racket", "Evaluation"]
+	},
 	{
 		number: 4, title: "Definitions and Procedures", outDate: "Sept. 15", active: true,
 		links: [
