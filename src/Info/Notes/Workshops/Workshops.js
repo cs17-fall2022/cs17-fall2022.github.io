@@ -8,9 +8,9 @@ const workshops = [
 		]
 	},
 	{
-		number: 2, title: "Expressions, Types, and Procedures", outDate: "Sept. 16-17", active: false,
+		number: 2, title: "Expressions, Types, and Procedures", outDate: "Sept. 16-17", active: true,
 		links: [
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1WAKcbLuQSBDQvPX85NX9w6eEohZWya8u/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		]
 	},
 	{
