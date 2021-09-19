@@ -10,11 +10,11 @@ const labs = [
 		]
 	},
 	{
-		number: 2, title: "Racket Introduction", dueDate: "Sept. 19-21", active: false,
+		number: 2, title: "Racket Introduction", dueDate: "Sept. 19-21", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1erC9Ih37tP8A2Pa87nCBiUwWCQ7SwAy4/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/file/d/12sjCdtjB-Gejmv9HD4SKCjqEZ700AU9l/view?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1smxkZENOOmwA1G7LB0a1BUZytCXEwjscglcaB8XFDMc/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
