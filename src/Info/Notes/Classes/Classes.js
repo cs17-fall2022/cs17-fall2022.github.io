@@ -245,15 +245,15 @@ const classes = [
 	// 	],
 	// 	tags: ["Lists", "Recursion", "Racket"]
 	// },
-	// { 
-	// 	number: 6, title: "Cond, If, And, Or, Lists", outDate: "2/1/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Lists", "Racket", "Evaluation"]
-	// },
+	{ 
+		number: 6, title: "Booleans and Short Circuiting", outDate: "Sept. 20", active: true,
+		links: [
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/17DNbC-1fffhgxD1tlnYbi_XC8WlcAYkX/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44e8e19b-5a6a-4aae-9fc1-ad9d000ea491", label: "Recording" },
+			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1LmVDEBIh2SdBlTUUjh54XOHf4zXs8jqR/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket", "Evaluation"]
+	},
 	{ 
 		number: 5, title: "Definitions and Design Recipe", outDate: "Sept. 17", active: true,
 		links: [
