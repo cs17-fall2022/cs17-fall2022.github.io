@@ -132,7 +132,7 @@ const classes = [
 	// 	number: 19, title: "Recurrence and Big-O", outDate: "3/5/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Analysis", "Big-O"]
@@ -141,7 +141,7 @@ const classes = [
 	// 	number: 18, title: "Generic Types, Set Equality, and Even More Analysis", outDate: "3/3/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Design Recipe", "Analysis"]
@@ -150,7 +150,7 @@ const classes = [
 	// 	number: 17, title: "Types, Pattern Matching, and Even More Analysis", outDate: "3/1/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["ReasonML", "Analysis"]
@@ -159,7 +159,7 @@ const classes = [
 	// 	number: 16, title: "Combinatorics and ReasonML", outDate: "2/26/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Recursion", "ReasonML"]
@@ -168,7 +168,7 @@ const classes = [
 	// 	number: 15, title: "Let and Intro to Reason", outDate: "2/24/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Racket", "ReasonML"]
@@ -177,7 +177,7 @@ const classes = [
 	// 	number: 14, title: "HOPs and Analysis", outDate: "2/22/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Racket", "Lambda", "HOPs", "Analysis"]
@@ -186,7 +186,7 @@ const classes = [
 	// 	number: 13, title: "More Analysis and Intro to Lambda", outDate: "2/19/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Racket", "Analysis", "Lambda"]
@@ -195,7 +195,7 @@ const classes = [
 	// 	number: 12, title: "Reverse and More Analysis", outDate: "2/17/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Recursion", "Racket", "Analysis"]
@@ -204,7 +204,7 @@ const classes = [
 	// 	number: 11, title: "Analysis, Two Argument Recursion pt. 2", outDate: "2/12/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Recursion", "Racket"]
@@ -213,7 +213,7 @@ const classes = [
 	// 	number: 10, title: "Introduction to Analysis", outDate: "2/10/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Analysis", "Racket"]
@@ -222,20 +222,20 @@ const classes = [
 	// 	number: 9, title: "Two Argument Recursion pt. 1", outDate: "2/8/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Recursion", "Racket"]
 	// },
-	// { 
-	// 	number: 8, title: "Recursion and Boolean Expressions", outDate: "2/5/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Recursion", "Racket"]
-	// },
+	{
+		number: 8, title: "Recursion", outDate: "Sept. 24", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1LsRxZlXIEbdpBAIJFXvhx5HA79H8Dg2f/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a9069be6-a6eb-4a5d-9cf8-ad9d000ea4be", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1cI2NVcfBAHsGtLPoNsRt9DFo8SHW1UAu/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Lists", "Recursion", "Racket"]
+	},
 	{
 		number: 7, title: "Lists", outDate: "Sept. 22", active: true,
 		links: [
@@ -276,7 +276,7 @@ const classes = [
 		number: 3, title: "BNF and Processing", outDate: "Sept. 13", active: true,
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1KprJWKSNAHWYebBQjrbplXjb66jIkrkz/view?usp=sharing", label: "Notes" },
-			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e1179f3-4d55-4278-9b7e-ad9d000ea44c" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e1179f3-4d55-4278-9b7e-ad9d000ea44c", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1KUxXrXp5lMQCiXqZsGNbsly6B4Ovay90/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket", "Evaluation"]

@@ -115,7 +115,7 @@ class HomePage extends React.Component {
 					<div className="home-announcement">
 						<div>
 							<div><FaExclamation /></div>
-							<p><mark>Announcement:</mark>Due to the recent wifi outage on campus, Homework 2 is now due on <mark>September 23, 2 p.m. EDT</mark>. (lab assignments link is now in the important links section below)</p>
+							<p><mark>Announcement:</mark> Please fill out the <a href="https://forms.gle/hXz8SuiEVSDzkE4h7" target="_blank" rel="noopener noreferrer">Bignum Partner Form</a> {" "}by ASAP if you haven't yet (everyone needs to fill it out to get assigned a design check TA)!!</p>
 						</div>
 					</div>
 					<div className="home-due-soon">
