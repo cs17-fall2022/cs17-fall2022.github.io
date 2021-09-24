@@ -236,30 +236,30 @@ const classes = [
 	// 	],
 	// 	tags: ["Recursion", "Racket"]
 	// },
-	// { 
-	// 	number: 7, title: "Lists and List Recursion", outDate: "2/3/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Lists", "Recursion", "Racket"]
-	// },
-	{ 
+	{
+		number: 7, title: "Lists", outDate: "Sept. 22", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/12f5xMjhZs1zIEGengZ11HixPtxREg-FZ/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a84e389f-79b9-4bb1-8ad4-ad9d000ea4a7", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/14qX7yulumgvqR6D2dzcjoC5gu0t5iSLC/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Lists", "Racket"]
+	},
+	{
 		number: 6, title: "Booleans and Short Circuiting", outDate: "Sept. 20", active: true,
 		links: [
-			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/17DNbC-1fffhgxD1tlnYbi_XC8WlcAYkX/view?usp=sharing", label: "Notes" },
-			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44e8e19b-5a6a-4aae-9fc1-ad9d000ea491", label: "Recording" },
-			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1LmVDEBIh2SdBlTUUjh54XOHf4zXs8jqR/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/17DNbC-1fffhgxD1tlnYbi_XC8WlcAYkX/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44e8e19b-5a6a-4aae-9fc1-ad9d000ea491", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1LmVDEBIh2SdBlTUUjh54XOHf4zXs8jqR/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket", "Evaluation"]
 	},
-	{ 
+	{
 		number: 5, title: "Definitions and Design Recipe", outDate: "Sept. 17", active: true,
 		links: [
-			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1-iphHuFocH_-9QFYI8p7JoIAD2FaJZWM/view?usp=sharing", label: "Notes" },
-			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80d56dcc-3dbd-4d1f-927a-ad9d000ea47c" , label: "Recording"},
-			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1sSH-wufg2b3ikSU-0jO8AGx_NECsBk-o/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1-iphHuFocH_-9QFYI8p7JoIAD2FaJZWM/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80d56dcc-3dbd-4d1f-927a-ad9d000ea47c", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1sSH-wufg2b3ikSU-0jO8AGx_NECsBk-o/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Design Recipe", "Racket", "Evaluation"]
 	},

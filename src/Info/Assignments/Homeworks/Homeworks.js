@@ -14,9 +14,9 @@ const homeworks = [
 		]
 	},
 	{
-		number: 3, title: "Recursion", dueDate: "Sept. 29, 11 p.m. EDT", active: false,
+		number: 3, title: "Recursion", dueDate: "Sept. 29, 11 p.m. EDT", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1cnFs9BhAYEc_SQ7pW2-XXA9UIqaH4QBk/view?usp=sharing", label: "Handout" },
 		]
 	},
 	{
