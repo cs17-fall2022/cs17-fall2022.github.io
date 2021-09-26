@@ -8,8 +8,8 @@ import Footer from '../Footer/Footer';
 class Page extends React.Component {
 	constructor(props) {
 		super(props);
-		this.state = { 
-			width: window.innerWidth, 
+		this.state = {
+			width: window.innerWidth,
 			height: window.innerHeight,
 		};
 
@@ -29,11 +29,11 @@ class Page extends React.Component {
 
 		return (
 			<div className="page-wrapper">
-				<Header active={this.props.activeTab} aspectRatio={aspectRatio}/>
-				<div className={"main-content" + " main-content-resize " + resizeStyle}>
+				<Header active={this.props.activeTab} aspectRatio={aspectRatio} />
+				<div className={"main-content main-content-resize " + resizeStyle}>
 					{this.props.children}
 				</div>
-				<Footer resize={resize}/>
+				<Footer resize={resize} />
 			</div>
 		);
 	}

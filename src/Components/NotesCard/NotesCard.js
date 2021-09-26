@@ -5,22 +5,11 @@ import './NotesCard.scss';
 
 class NotesCard extends React.Component {
 	renderLinks() {
-		return this.props.links.map((l) => <IconLink link={l.link} icon={l.icon} label={l.label}/>)
+		return this.props.links.map((l) => <IconLink link={l.link} icon={l.icon} label={l.label} />)
 	}
 
 	renderTags() {
 		return this.props.tags.map((l) => <p className="notes-card-tag">{l}</p>)
-	}
-
-	formatDate() {
-		const months = ["Jan.", "Feb.", "Mar.", "Apr.", "May"]
-		// the .replace thing is needed for dates to work on Safari
-		const date = new Date(this.props.outDate.replace(/-/g, "/"))
-		const year = date.getFullYear().toString().substr(-2)
-		const month = date.getMonth()
-		const day = date.getDate()
-
-		return `${month + 1}/${day}/${year}, 11:50 AM EST`
 	}
 
 	render() {
@@ -46,7 +35,7 @@ NotesCard.defaultProps = {
 	title: "Assignment",
 	active: "false",
 	outDate: "01-01-2021",
-	links: [], 
+	links: [],
 }
 
 export default NotesCard;

@@ -5,18 +5,7 @@ import './AssignmentsCard.scss';
 
 class AssignmentsCard extends React.Component {
 	renderLinks() {
-		return this.props.links.map((l) => <IconLink link={l.link} icon={l.icon} label={l.label}/>)
-	}
-
-	formatDate() {
-		const months = ["Jan.", "Feb.", "Mar.", "Apr.", "May"]
-		// the .replace thing is needed for dates to work on Safari
-		const date = new Date(this.props.dueDate.replace(/-/g, "/"))
-		const year = date.getFullYear().toString().substr(-2)
-		const month = date.getMonth()
-		const day = date.getDate()
-
-		return `${month + 1}/${day}/${year}, 11:00 PM EST`
+		return this.props.links.map((l) => <IconLink link={l.link} icon={l.icon} label={l.label} />)
 	}
 
 	render() {

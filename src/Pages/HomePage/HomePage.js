@@ -7,8 +7,7 @@ import { FaExclamation } from 'react-icons/fa';
 
 import Page from '../../Layout/Page/Page';
 import AnimatedImage from '../../Components/AnimatedImage/AnimatedImage';
-import { ReactComponent as CIT_Illustration } from '../../Assets/CIT_Logo/CIT_Illustration.svg';
-import { ReactComponent as CIT_Logo_1 } from '../../Assets/CIT_Logo/CIT_Logo_1.svg';
+import { ReactComponent as CIT_ILLUSTRATION } from '../../Assets/CIT_Logo/CIT_Illustration.svg';
 import AssignmentsCard from '../../Components/AssignmentsCard/AssignmentsCard';
 
 import Homeworks from '../../Info/Assignments/Homeworks/Homeworks';
@@ -84,7 +83,7 @@ class HomePage extends React.Component {
 				<div className="home-wrapper">
 					<div className="home-left-wrapper">
 						<div className="home-intro-images">
-							<CIT_Illustration className="cit-illustration" />
+							<CIT_ILLUSTRATION className="cit-illustration" />
 							{/* <AnimatedImage images={[<CIT_Logo_1/>]}/> */}
 							<AnimatedImage />
 						</div>

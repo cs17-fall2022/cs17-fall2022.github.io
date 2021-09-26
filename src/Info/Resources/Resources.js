@@ -1,4 +1,4 @@
-import { FaQuestion, FaSchool, FaShoePrints, FaComment, FaVideo, FaFileAlt } from 'react-icons/fa';
+import { FaQuestion, FaSchool, FaShoePrints, FaComment, FaFileAlt } from 'react-icons/fa';
 
 export const ImportantLinks = [
 	{ label: "Syllabus", icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1MVnZXlmVYkpFUtu9w1sbgG4r4k3jM7UJ/view?usp=sharing", description: "Class info, grading, and late policy" },

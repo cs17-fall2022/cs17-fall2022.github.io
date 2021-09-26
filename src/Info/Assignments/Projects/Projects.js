@@ -7,8 +7,8 @@ const projects = [
 		links: [
 			{ icon: <FaFileAlt />, link: "", label: "Handout" },
 			{ icon: <FaCode />, link: "", label: "Source Code" },
-			// { icon: <FaFilePowerpoint />, link: "", label: "Gearup Slides" },
-			// { icon: <FaYoutube />, link: "", label: "Gearup Recording" }
+			{ icon: <FaFilePowerpoint />, link: "", label: "Gearup Slides" },
+			{ icon: <FaYoutube />, link: "", label: "Gearup Recording" }
 		]
 	},
 	{
@@ -17,8 +17,8 @@ const projects = [
 		links: [
 			{ icon: <FaFileAlt />, link: "", label: "Handout" },
 			{ icon: <FaCode />, link: "", label: "Source Code" },
-			// { icon: <FaFilePowerpoint />, link: "", label: "Gearup Slides" },
-			// { icon: <FaYoutube />, link: "", label: "Gearup Recording" }
+			{ icon: <FaFilePowerpoint />, link: "", label: "Gearup Slides" },
+			{ icon: <FaYoutube />, link: "", label: "Gearup Recording" }
 		]
 	},
 	{

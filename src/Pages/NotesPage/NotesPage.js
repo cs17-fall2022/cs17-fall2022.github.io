@@ -34,7 +34,7 @@ class NotesPage extends React.Component {
 		const tags = this.state.allTags;
 		const active = this.state.activeTags;
 		return tags.filter((t) => t).map((t) =>
-			<p className={"notes-filter-tag" + (this.state.activeTags.includes(t) ? " active-filter-tag" : "")}
+			<p className={"notes-filter-tag" + (active.includes(t) ? " active-filter-tag" : "")}
 				onClick={() => this.toggleTag(t)}>{t}</p>
 		)
 	}
@@ -74,11 +74,11 @@ class NotesPage extends React.Component {
 					<div className="notes-left-wrapper">
 						<div className="notes-nav-bar">
 							<div className="notes-link-wrapper">
-								<Link to="/classes"><p className={"notes-link" + (this.props.activeTab == "Classes" ? " notes-active-link" : "")}>Classes</p></Link>
+								<Link to="/classes"><p className={"notes-link" + (this.props.activeTab === "Classes" ? " notes-active-link" : "")}>Classes</p></Link>
 								{/* <p className="notes-link-description">these do be the classes tho</p> */}
 							</div>
 							<div className="notes-link-wrapper">
-								<Link to="/workshops"><p className={"notes-link" + (this.props.activeTab == "Workshops" ? " notes-active-link" : "")}>Workshops</p></Link>
+								<Link to="/workshops"><p className={"notes-link" + (this.props.activeTab === "Workshops" ? " notes-active-link" : "")}>Workshops</p></Link>
 								{/* <p className="notes-link-description">this link go to workshops page!!</p> */}
 							</div>
 						</div>
