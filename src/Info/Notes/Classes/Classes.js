@@ -221,7 +221,7 @@ const classes = [
 	{
 		number: 9, title: "Recursive Evaluation", outDate: "Sept. 27", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1pdthg4NUa3UxQF9pYBfWgJ23TydxgYIt/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=252bb686-f7b7-4200-bf07-ad9d000ea4d5", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1E28nTGxjDt_k8LFWfE4hjiZoF0JMEokP/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],
