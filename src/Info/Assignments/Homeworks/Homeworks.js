@@ -20,9 +20,9 @@ const homeworks = [
 		]
 	},
 	{
-		number: 4, title: "More Recursion", dueDate: "Oct. 6, 11 p.m. EDT", active: false,
+		number: 4, title: "More Recursion", dueDate: "Oct. 6, 11 p.m. EDT", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1dTrPCJ5JWeJn0RYnvGYz5wqwx81zcQu9/view?usp=sharing", label: "Handout" },
 		]
 	},
 	{

@@ -209,15 +209,15 @@ const classes = [
 	// 	],
 	// 	tags: ["Recursion", "Racket"]
 	// },
-	// { 
-	// 	number: 10, title: "Introduction to Analysis", outDate: "2/10/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Analysis", "Racket"]
-	// },
+	{
+		number: 10, title: "Introduction to Analysis", outDate: "Sept. 29", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88a85824-826d-4476-989c-ad9d000ea4eb", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1UjS_jYEW9MTXoneb1kQjMcpplGm9jZHj/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Analysis", "Racket"]
+	},
 	{
 		number: 9, title: "Recursive Evaluation", outDate: "Sept. 27", active: true,
 		links: [
