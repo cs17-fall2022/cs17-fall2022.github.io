@@ -200,33 +200,33 @@ const classes = [
 	// 	],
 	// 	tags: ["Recursion", "Racket", "Analysis"]
 	// },
-	// { 
-	// 	number: 11, title: "Analysis, Two Argument Recursion pt. 2", outDate: "2/12/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Recursion", "Racket"]
-	// },
-	// { 
-	// 	number: 10, title: "Introduction to Analysis", outDate: "2/10/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Analysis", "Racket"]
-	// },
-	// { 
-	// 	number: 9, title: "Two Argument Recursion pt. 1", outDate: "2/8/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Recursion", "Racket"]
-	// },
+	{
+		number: 11, title: "Analysis and Two Argument Recursion", outDate: "Oct. 1", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=baea9ed5-7e70-4ae0-95ab-ad9d000ea503", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1RnLJsUd-fu1A7YFf8aZkZcwm7WyAMIyc/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Recursion", "Racket"]
+	},
+	{
+		number: 10, title: "Introduction to Analysis", outDate: "Sept. 29", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1uFp5tZSCSomb7sWpnRQAMQEcLS36brFm/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88a85824-826d-4476-989c-ad9d000ea4eb", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1UjS_jYEW9MTXoneb1kQjMcpplGm9jZHj/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Analysis", "Racket"]
+	},
+	{
+		number: 9, title: "Recursive Evaluation", outDate: "Sept. 27", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1pdthg4NUa3UxQF9pYBfWgJ23TydxgYIt/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=252bb686-f7b7-4200-bf07-ad9d000ea4d5", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1E28nTGxjDt_k8LFWfE4hjiZoF0JMEokP/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Evaluation", "Recursion", "Racket"]
+	},
 	{
 		number: 8, title: "Recursion", outDate: "Sept. 24", active: true,
 		links: [

@@ -114,7 +114,7 @@ class HomePage extends React.Component {
 					<div className="home-announcement">
 						<div>
 							<div><FaExclamation /></div>
-							<p><mark>Announcement:</mark> Please fill out the <a href="https://forms.gle/hXz8SuiEVSDzkE4h7" target="_blank" rel="noopener noreferrer">Bignum Partner Form</a> {" "}by ASAP if you haven't yet (everyone needs to fill it out to get assigned a design check TA)!!</p>
+							<p><mark>Announcement:</mark> <a href="https://forms.gle/vhsmh5AMjraHmDXN7" target="_blank" rel="noopener noreferrer">Sign up</a>{" "} for our mentorship program by Oct. 8 to get assigned a mentor TA!</p>
 						</div>
 					</div>
 					<div className="home-due-soon">

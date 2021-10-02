@@ -14,15 +14,15 @@ const workshops = [
 		]
 	},
 	{
-		number: 3, title: "Boolean Logic, Lists, and Recursion", outDate: "Sept. 23-24", active: false,
+		number: 3, title: "Boolean Logic, Lists, and Recursion", outDate: "Sept. 23-24", active: true,
 		links: [
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1voA864XAC5cia87wWeJh4QiyUjb4v6Hl/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		]
 	},
 	{
-		number: 4, title: "Recurrence Relations", outDate: "Sept. 30-Oct. 1", active: false,
+		number: 4, title: "Recurrence Relations", outDate: "Sept. 30-Oct. 1", active: true,
 		links: [
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/184M-tXCibZleamG4V01NtPmPubgOmbBG/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		]
 	},
 	{
