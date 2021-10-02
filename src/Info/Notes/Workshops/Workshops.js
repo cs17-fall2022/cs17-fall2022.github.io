@@ -20,9 +20,9 @@ const workshops = [
 		]
 	},
 	{
-		number: 4, title: "Recurrence Relations", outDate: "Sept. 30-Oct. 1", active: false,
+		number: 4, title: "Recurrence Relations", outDate: "Sept. 30-Oct. 1", active: true,
 		links: [
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/184M-tXCibZleamG4V01NtPmPubgOmbBG/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		]
 	},
 	{
