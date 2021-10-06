@@ -1,12 +1,12 @@
-import { FaQuestion, FaSchool, FaShoePrints, FaComment, FaFileAlt } from 'react-icons/fa';
+import { FaQuestion, FaSchool, FaShoePrints, FaComment, FaFileAlt, FaVideo } from 'react-icons/fa';
 
 export const ImportantLinks = [
 	{ label: "Syllabus", icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1MVnZXlmVYkpFUtu9w1sbgG4r4k3jM7UJ/view?usp=sharing", description: "Class info, grading, and late policy" },
-	// { label: "Hours Guide", icon: <FaVideo />, link: "https://drive.google.com/file/d/1WRehNR2n3hXs7ck9PWdRZfiT4DjFrzZ0/view?usp=sharing", description: "" },
 	{ label: "Gradescope", icon: <FaSchool />, link: "https://www.gradescope.com/", description: "Submit homework, projects, and exams" },
 	{ label: "EdStem", icon: <FaQuestion />, link: "https://edstem.org/us/join/NeMctt", description: "Ask clarification, debugging, and conceptual questions" },
 	{ label: "SignMeUp", icon: <FaComment />, link: "https://signmeup.cs.brown.edu/", description: "Sign up for TA hours or lab queues" },
 	{ label: "Lab Assignments", icon: <FaShoePrints />, link: "https://docs.google.com/spreadsheets/d/1Jlm45C9B5PAb7gnZqZwyBCELIXZ7zZz0dhuPXBz9dzQ/edit?usp=sharing", description: "See lab sections" },
+	{ label: "Zoom Link", icon: <FaVideo />, link: "https://brown.zoom.us/j/95809383337", description: "Attend class at 11 a.m. MWF" },
 ]
 
 export const Resources = [

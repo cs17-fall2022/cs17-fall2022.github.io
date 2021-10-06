@@ -88,9 +88,9 @@ class HomePage extends React.Component {
 							<AnimatedImage />
 						</div>
 						<div className="home-intro-text">
-							<h1>Welcome to CS17 :D</h1>
+							<h1>Welcome to CS17: D</h1>
 							<p>
-								Welcome!! CS17 (CSCI 0170) is an intro computer
+								Welcome!!CS17 (CSCI 0170) is an intro computer
 								science class at Brown University — emphasis on intro!!
 								We take your ideas very seriously and want to make a welcoming environment
 								for everyone who wants to learn CS — fill out our {" "}
@@ -114,7 +114,7 @@ class HomePage extends React.Component {
 					<div className="home-announcement">
 						<div>
 							<div><FaExclamation /></div>
-							<p><mark>Announcement:</mark> <a href="https://forms.gle/vhsmh5AMjraHmDXN7" target="_blank" rel="noopener noreferrer">Sign up</a>{" "} for our mentorship program by Oct. 8 to get assigned a mentor TA!</p>
+							<p><mark>Announcement: </mark>Class will be held at 11 a.m. EDT Mon/Wed/Fri <a href="https://brown.zoom.us/j/95809383337" target="_blank" rel="noopener noreferrer">on Zoom</a>!</p>
 						</div>
 					</div>
 					<div className="home-due-soon">
