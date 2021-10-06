@@ -185,7 +185,7 @@ const classes = [
 	{
 		number: 13, title: "More Analysis and Intro to Lambda", outDate: "Oct. 6", active: true,
 		links: [
-			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1d_Si9GkJ4L204UCtANZspLMo4m1CJVXL/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e633bb1-2500-4087-97c3-adb9010b5f7d", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1cDg4NrMSFDp1JT4mrkTYkXpCxbc88IBQ/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],
