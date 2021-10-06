@@ -182,28 +182,28 @@ const classes = [
 	// 	],
 	// 	tags: ["Racket", "Lambda", "HOPs", "Analysis"]
 	// },
-	// { 
-	// 	number: 13, title: "More Analysis and Intro to Lambda", outDate: "2/19/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Analysis", "Lambda"]
-	// },
-	{ 
+	{
+		number: 13, title: "More Analysis and Intro to Lambda", outDate: "Oct. 6", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e633bb1-2500-4087-97c3-adb9010b5f7d", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1cDg4NrMSFDp1JT4mrkTYkXpCxbc88IBQ/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket", "Analysis", "Lambda"]
+	},
+	{
 		number: 12, title: "Reverse and More Analysis", outDate: "Oct. 4", active: true,
 		links: [
-			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1G-dbByxDvmFjzJq7PhLE_06nx0A3qrv2/view?usp=sharing", label: "Notes" },
-			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e4320a0c-db07-49a0-a591-ad9d000ea51b", label: "Recording" },
-			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1b0ixO4NNrn4y0ft7zELDuJ9h9SJG1c7B/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1G-dbByxDvmFjzJq7PhLE_06nx0A3qrv2/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e4320a0c-db07-49a0-a591-ad9d000ea51b", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1b0ixO4NNrn4y0ft7zELDuJ9h9SJG1c7B/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Recursion", "Racket", "Analysis"]
 	},
 	{
 		number: 11, title: "Analysis and Two Argument Recursion", outDate: "Oct. 1", active: true,
 		links: [
-			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1RORzIcYyjfuVSl-TFkid4aYzTU9g_PEb/view?usp=sharing", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1RORzIcYyjfuVSl-TFkid4aYzTU9g_PEb/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=baea9ed5-7e70-4ae0-95ab-ad9d000ea503", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1RnLJsUd-fu1A7YFf8aZkZcwm7WyAMIyc/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],
