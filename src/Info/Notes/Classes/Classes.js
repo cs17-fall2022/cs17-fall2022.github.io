@@ -173,15 +173,15 @@ const classes = [
 	// 	],
 	// 	tags: ["Racket", "ReasonML"]
 	// },
-	// { 
-	// 	number: 14, title: "HOPs and Analysis", outDate: "2/22/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Lambda", "HOPs", "Analysis"]
-	// },
+	{
+		number: 14, title: "HOPs and Analysis", outDate: "Oct. 8", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/13HVsBXcaUn9h-gNIfTS_55oEa0j5aHtS/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ac15177-6da2-4c09-b550-ad9d000ea54d", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/12DdPL7O3uK8Sea9KP4Zf_cBixEoneujX/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket", "Lambda", "HOPs", "Analysis"]
+	},
 	{
 		number: 13, title: "More Analysis and Intro to Lambda", outDate: "Oct. 6", active: true,
 		links: [
