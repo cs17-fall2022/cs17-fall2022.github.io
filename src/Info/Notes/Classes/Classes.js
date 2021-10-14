@@ -164,15 +164,15 @@ const classes = [
 	// 	],
 	// 	tags: ["Recursion", "ReasonML"]
 	// },
-	// { 
-	// 	number: 15, title: "Let and Intro to Reason", outDate: "2/24/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "ReasonML"]
-	// },
+	{
+		number: 15, title: "Let and Intro to Reason", outDate: "Oct. 13", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1xF0zTuXRwxjnbS8E8y87cf1uY5coOoTH/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d13d806-48bc-48bc-ad36-ad9d000ea583", label: "Recording" },
+			// { icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
+		],
+		tags: ["Racket", "ReasonML"]
+	},
 	{
 		number: 14, title: "HOPs and Analysis", outDate: "Oct. 8", active: true,
 		links: [
