@@ -158,7 +158,7 @@ const classes = [
 	{
 		number: 16, title: "Combinatorics and ReasonML", outDate: "Oct. 17", active: true,
 		links: [
-			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/15SXaikbqC2fsDShVPICshJcOBOejelOd/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e95e074b-dae8-4496-8c83-ad9d000ea59e", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1BV6B8991Im-6pJXueZcrAq_HoA85xZb2/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],

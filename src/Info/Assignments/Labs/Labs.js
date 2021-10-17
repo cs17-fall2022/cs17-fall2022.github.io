@@ -39,10 +39,10 @@ const labs = [
 		]
 	},
 	{
-		number: 6, title: "Reason", dueDate: "Oct. 17-19", active: false,
+		number: 6, title: "Reason", dueDate: "Oct. 17-19", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1YmgDFjsgxMf2nUfYnX3NIUs7yJop9hKI/view?usp=sharing", label: "Handout" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1S1Jzy3uPjv5i9B22i14JZV_HlHccD-_RCciXhG6MOKw/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
