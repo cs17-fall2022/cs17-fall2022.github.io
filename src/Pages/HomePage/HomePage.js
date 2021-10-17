@@ -114,7 +114,7 @@ class HomePage extends React.Component {
 					<div className="home-announcement">
 						<div>
 							<div><FaExclamation /></div>
-							<p><mark>Announcement: </mark>Class will be held at 11 a.m. EDT Mon/Wed/Fri back in Metcalf Auditorium!</p>
+							<p><mark>Announcement: </mark>Fill out our <a href="https://forms.gle/YVeHTYUfCxevkq73A">mid-semester feedback form</a> for 3 extra credit points on HW6!</p>
 						</div>
 					</div>
 					<div className="home-due-soon">
