@@ -137,15 +137,15 @@ const classes = [
 	// 	],
 	// 	tags: ["Analysis", "Big-O"]
 	// },
-	// { 
-	// 	number: 18, title: "Generic Types, Set Equality, and Even More Analysis", outDate: "3/3/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Design Recipe", "Analysis"]
-	// },
+	{
+		number: 18, title: "Generic Types, Set Equality, and Even More Analysis", outDate: "Oct. 20", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92c133a2-4e35-4b88-916c-ad9d000ea5e5", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1zK-hgzA61hcAEuRuEIXBTYp8cVSCxnSo/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Design Recipe", "Analysis"]
+	},
 	{
 		number: 17, title: "Types, Pattern Matching, and More Analysis", outDate: "Oct. 18", active: true,
 		links: [

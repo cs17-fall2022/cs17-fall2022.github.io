@@ -34,7 +34,7 @@ const homeworks = [
 	{
 		number: 6, title: "Subsets", dueDate: "Oct. 22, 11 p.m. EDT", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1cR3Ne14j6pFk0b6Sw7FuprWUT6b0L6mB/view?usp=sharing", label: "Handout" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1_sFlSOSnLyg2O8wYqS_iVTpGWO37YsPw/view?usp=sharing", label: "Handout" },
 			{ icon: <FaCode />, link: "https://drive.google.com/file/d/1ab5ekFbeSsK_63FNXWBApClEKthPR_hL/view?usp=sharing", label: "Source Code" },
 		]
 	},
