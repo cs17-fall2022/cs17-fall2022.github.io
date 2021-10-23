@@ -39,10 +39,10 @@ const homeworks = [
 		]
 	},
 	{
-		number: 7, title: "ReasonML/Matrices", dueDate: "Oct. 27, 11 p.m. EDT", active: false,
+		number: 7, title: "ReasonML/Matrices", dueDate: "Oct. 27, 11 p.m. EDT", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1h2VZSy0Q5TbF4aJndDmSb81MXb_0TMmc/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1rCmAG3r8Ry4R0HVkMO3ct2lXe7Prz1t9?usp=sharing", label: "Source Code" },
 		]
 	},
 	{
