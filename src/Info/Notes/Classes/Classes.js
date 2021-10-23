@@ -128,15 +128,15 @@ const classes = [
 	// 	],
 	// 	tags: ["ReasonML", "Big-O"]
 	// },
-	// { 
-	// 	number: 19, title: "Recurrence and Big-O", outDate: "3/5/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Analysis", "Big-O"]
-	// },
+	{
+		number: 19, title: "Recurrences and ReasonML", outDate: "Oct. 22", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1z828sY0JzVWSzlMP1Jz5FhbY4jYHiPOA/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a3bb9ce6-1f79-4214-bbae-ad9d000ea604", label: "Recording" },
+			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+		],
+		tags: ["Analysis", "ReasonML"]
+	},
 	{
 		number: 18, title: "Generic Types, Set Equality, and Even More Analysis", outDate: "Oct. 20", active: true,
 		links: [
