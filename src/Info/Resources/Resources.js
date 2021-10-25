@@ -25,10 +25,10 @@ export const Resources = [
 		section: "CS17 Language Guides", links:
 			[
 				{ label: "General Style Guide", link: "https://drive.google.com/file/d/1StpKqI-hXjJtlm2RfYUSFcX_jspLR1G0/view?usp=sharing" },
-				{ label: "Racket to ReasonML", link: "https://drive.google.com/file/d/1_h0KNtVDt33bEL3v__YAb7W8jGIQmNpD/view?usp=sharing" },
+				{ label: "Racket to ReasonML", link: "https://drive.google.com/file/d/1BcUY_hzXo6wpEWzFPxVapdZPD9pRx26H/view?usp=sharing" },
 				{ label: "Racket Style Guide", link: "https://drive.google.com/file/d/1E7QvUHsHwhyJAWaB9F8tJa0VuNMNzTv8/view?usp=sharing" },
 				{ label: "ReasonML Debugging", link: "https://drive.google.com/file/d/1qvAC_sTTXlQ4cWOD5FEh8y1I2fL_nlNd/view?usp=sharing" },
-				{ label: "ReasonML Style Guide", link: "https://drive.google.com/file/d/1olLwJEND7l6UR_NvehxaG1yzdPq3lmZ6/view?usp=sharing" },
+				{ label: "ReasonML Style Guide", link: "https://drive.google.com/file/d/1_h0KNtVDt33bEL3v__YAb7W8jGIQmNpD/view?usp=sharing" },
 				{ label: "Common Mistakes to Avoid", link: "https://drive.google.com/file/d/1UwMoMc-Jy3_8ob023K5dCv0Bbt5b_gb4/view?usp=sharing" },
 				// { label: "CS17 Racket Built-in Procedures and Data", link: "https://drive.google.com/file/d/1Aosl7flOkF0jdolTfrDABwrBVp2SSiQI/view?usp=sharing" },
 			]

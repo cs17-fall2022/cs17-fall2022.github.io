@@ -46,7 +46,15 @@ const labs = [
 		]
 	},
 	{
-		number: 7, title: "Environments", dueDate: "Oct. 24-26", active: false,
+		number: 7, title: "Debugging", dueDate: "Oct. 24-26", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1iDaJbADco5YSr0myZHSneotNwAYWREYb/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1j8PovOioz31bsfyTSTjB6OB4zC_qRb5x?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1xxBd2ltKOhWsv1WRYLZil4aT8tckXelUhI68bzjsHN0/edit?usp=sharing", label: "Slides" },
+		]
+	},
+	{
+		number: 8, title: "Environments", dueDate: "Oct. 31-Nov. 2", active: false,
 		links: [
 			{ icon: <FaFileAlt />, link: "", label: "Handout" },
 			{ icon: <FaCode />, link: "", label: "Source Code" },
@@ -54,15 +62,7 @@ const labs = [
 		]
 	},
 	{
-		number: 8, title: "ADTs", dueDate: "Oct. 31-Nov. 2", active: false,
-		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-		]
-	},
-	{
-		number: 9, title: "Sort", dueDate: "Nov. 7-9", active: false,
+		number: 9, title: "ADTs", dueDate: "Nov. 7-9", active: false,
 		links: [
 			{ icon: <FaFileAlt />, link: "", label: "Handout" },
 			{ icon: <FaCode />, link: "", label: "Source Code" },
@@ -77,6 +77,15 @@ const labs = [
 			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
 		]
 	},
+	{
+		number: 11, title: "Sort", dueDate: "Nov. 21-23", active: false,
+		links: [
+			{ icon: <FaFileAlt />, link: "", label: "Handout" },
+			{ icon: <FaCode />, link: "", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+		]
+	},
+
 ]
 
 export default labs;
