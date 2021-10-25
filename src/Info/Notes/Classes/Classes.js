@@ -140,7 +140,7 @@ const classes = [
 	{
 		number: 18, title: "Generic Types, Set Equality, and Even More Analysis", outDate: "Oct. 20", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1udm3ehJgegUTjJYkEfumK-FGMTNmWsGQ/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=92c133a2-4e35-4b88-916c-ad9d000ea5e5", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1zK-hgzA61hcAEuRuEIXBTYp8cVSCxnSo/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],
