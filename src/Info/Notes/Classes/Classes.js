@@ -118,16 +118,15 @@ const classes = [
 	// 	],
 	// 	tags: ["ReasonML", "Big-O"]
 	// },
-	// { 
-	// 	number: 20, title: "Big-O, Modules, Reason", outDate: "3/8/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a511d44-e6fc-41cf-8351-acea01080811", label: "Recording Pt. 1" },
-	// 		{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efd555b9-d1c3-4876-9299-ace501175002", label: "Recording Pt. 2" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML", "Big-O"]
-	// },
+	{
+		number: 20, title: "Big-O", outDate: "Oct. 25", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/19IncI9kqL6TIvAw0pa9_pb5_R4ZMXuJ0/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b672f5ef-30e7-4903-8243-ad9d000ea61f", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1m4O-zIDmHcM6kbXkN8aq1037VPjxXF8g/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Analysis", "Big-O"]
+	},
 	{
 		number: 19, title: "Recurrences and ReasonML", outDate: "Oct. 22", active: true,
 		links: [
