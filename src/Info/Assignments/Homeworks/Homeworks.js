@@ -46,10 +46,10 @@ const homeworks = [
 		]
 	},
 	{
-		number: 8, title: "Rackettecita", dueDate: "Nov. 3, 11 p.m. EDT", active: false,
+		number: 8, title: "Rackettecita", dueDate: "Nov. 3, 11 p.m. EDT", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1BouMbQv-FBSQoJJ9OHMaZ1wead4BXjdM/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1KITMWOE4G24i89mZA-4TKi2liFbBT9dZ?usp=sharing", label: "Source Code" },
 		]
 	},
 	{
