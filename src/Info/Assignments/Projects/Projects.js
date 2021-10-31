@@ -12,13 +12,13 @@ const projects = [
 		]
 	},
 	{
-		number: 2, title: "Rackette", dueDate: "Nov. 12, 11 p.m. EST", active: false,
+		number: 2, title: "Rackette", dueDate: "Nov. 12, 11 p.m. EST", active: true,
 		notes: "",
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Gearup Slides" },
-			{ icon: <FaYoutube />, link: "", label: "Gearup Recording" }
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1msNxycu583Z7HzdpJ-Kc07OLMbpgVFDF/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/164Kfj1iMUu3tW31ehRgOyOnbFkgs6yoI?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1f3t7a0w1dfvGKiFTMRyFbKRKzndwhJHFeadpFAU8POI/edit?usp=sharing", label: "Gearup Slides" },
+			{ icon: <FaYoutube />, link: "https://drive.google.com/file/d/14JQKpjaKgD4VRbGgTCTPcLcwMhvbdQGQ/view?usp=sharing", label: "Gearup Recording" }
 		]
 	},
 	{
