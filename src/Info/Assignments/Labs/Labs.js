@@ -54,11 +54,11 @@ const labs = [
 		]
 	},
 	{
-		number: 8, title: "Environments", dueDate: "Oct. 31-Nov. 2", active: false,
+		number: 8, title: "Environments", dueDate: "Oct. 31-Nov. 2", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1H55tswItHTUrTYyYhaj5d5T-3YSTx1Bz/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1c5cf33pW_OQWYVwzahwzMR9nMaCNb1HV?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1dptDGkt2mjxcSRJxaIfcewM2be11qVMW1nCU03OEKnI/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
