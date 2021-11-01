@@ -5,7 +5,7 @@ const classes = [
 	// 	number: 33, title: "Limits of Computation", outDate: "4/7/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Computational Limits"]
@@ -14,7 +14,7 @@ const classes = [
 	// 	number: 32, title: "Diagonals, Limits of Computation", outDate: "4/5/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Game",  "Computational Limits"]
@@ -23,7 +23,7 @@ const classes = [
 	// 	number: 31, title: "Game - MiniMax (pt. 3)", outDate: "4/2/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Game"]
@@ -32,7 +32,7 @@ const classes = [
 	// 	number: 30, title: "Game - MiniMax (pt. 2)", outDate: "3/31/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Game"]
@@ -41,7 +41,7 @@ const classes = [
 	// 	number: 29, title: "Game - MiniMax", outDate: "3/29/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Game"]
@@ -50,7 +50,7 @@ const classes = [
 	// 	number: 28, title: "More Sorting and Intro to Game", outDate: "3/26/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Sorting", "Analysis", "Game"]
@@ -59,7 +59,7 @@ const classes = [
 	// 	number: 27, title: "Insertion Sort, Selection Sort, and Merge Sort", outDate: "3/24/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Sorting", "Analysis"]
@@ -68,7 +68,7 @@ const classes = [
 	// 	number: 26, title: "Environments, Contexts, and Lets", outDate: "3/22/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["Lambda"]
@@ -77,7 +77,7 @@ const classes = [
 	// 	number: 25, title: "Sorting and Mutual Recursion", outDate: "3/19/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["ReasonML", "Recursion"]
@@ -86,33 +86,33 @@ const classes = [
 	// 	number: 24, title: "ReasonML Syntax and Trees", outDate: "3/17/2021", active: true,
 	// 	links: [
 	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
+	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
 	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 	// 	],
 	// 	tags: ["ReasonML", "Trees"]
 	// },
-	// { 
-	// 	number: 23, title: "Rackette, VSCode, ReasonML", outDate: "3/15/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML"]
-	// },
+	{
+		number: 23, title: "Rackette and Misc. ReasonML", outDate: "Nov. 1", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1A_gJlhKzuZrs5YVikvZanikUlzYdt_Fg/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1c13de81-a7f4-4fe7-9428-ad9d000ea670", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1PHcAiWfeMJfBmqjyDacYWjGusILlU-hC/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML", "Evaluation"]
+	},
 	{
 		number: 22, title: "Rackette Overview", outDate: "Oct. 29 🎃", active: true,
 		links: [
-			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1D9FxMKGBklaTeZtiJlUwt7kkdAMGVkAz/view?usp=sharing", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1D9FxMKGBklaTeZtiJlUwt7kkdAMGVkAz/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91c60508-bdf7-4713-947b-ad9d000ea655", label: "Recording" },
-			// { icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/18s__wBhm31Kf2W_rXP4jM1H4gTIdGxVJ/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["ReasonML"]
 	},
 	{
 		number: 21, title: "Big-Theta", outDate: "Oct. 27", active: true,
 		links: [
-			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1gzEvz3SjcLLBQvNGVB-NibfgO7a5-SZZ/view?usp=sharing", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1gzEvz3SjcLLBQvNGVB-NibfgO7a5-SZZ/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3474f057-f6de-48e7-830a-ad9d000ea638", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1_dwoRxwP_aL8ylS3P7aBL5UYeAvC3kxR/edit?usp=sharing&rtpof=true&sd=true", label: "Slides" },
 		],
@@ -132,7 +132,7 @@ const classes = [
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1z828sY0JzVWSzlMP1Jz5FhbY4jYHiPOA/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a3bb9ce6-1f79-4214-bbae-ad9d000ea604", label: "Recording" },
-			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1P0O5DGB_xKY8hSQOS3x8_8nMr3H4GGR9/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Analysis", "ReasonML"]
 	},
