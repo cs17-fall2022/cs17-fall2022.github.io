@@ -103,7 +103,7 @@ const classes = [
 	{
 		number: 22, title: "Rackette Overview", outDate: "Oct. 29 🎃", active: true,
 		links: [
-			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1D9FxMKGBklaTeZtiJlUwt7kkdAMGVkAz/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=91c60508-bdf7-4713-947b-ad9d000ea655", label: "Recording" },
 			// { icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 		],
@@ -112,7 +112,7 @@ const classes = [
 	{
 		number: 21, title: "Big-Theta", outDate: "Oct. 27", active: true,
 		links: [
-			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1gzEvz3SjcLLBQvNGVB-NibfgO7a5-SZZ/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3474f057-f6de-48e7-830a-ad9d000ea638", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1_dwoRxwP_aL8ylS3P7aBL5UYeAvC3kxR/edit?usp=sharing&rtpof=true&sd=true", label: "Slides" },
 		],
