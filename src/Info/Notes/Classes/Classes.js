@@ -82,15 +82,15 @@ const classes = [
 	// 	],
 	// 	tags: ["ReasonML", "Recursion"]
 	// },
-	// { 
-	// 	number: 24, title: "ReasonML Syntax and Trees", outDate: "3/17/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML", "Trees"]
-	// },
+	{
+		number: 24, title: "ReasonML Syntax and checkError", outDate: "Nov. 3", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf5e5e79-493a-4962-83cc-ad9d000ea68e", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1lzkbx_kGTPf6lrD8FZYur51KAhD0yVCA/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML"]
+	},
 	{
 		number: 23, title: "Rackette and Misc. ReasonML", outDate: "Nov. 1", active: true,
 		links: [
