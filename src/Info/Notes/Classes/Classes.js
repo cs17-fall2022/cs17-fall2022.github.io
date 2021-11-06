@@ -73,15 +73,15 @@ const classes = [
 	// 	],
 	// 	tags: ["Lambda"]
 	// },
-	// { 
-	// 	number: 25, title: "Sorting and Mutual Recursion", outDate: "3/19/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML", "Recursion"]
-	// },
+	{
+		number: 25, title: "ADTs and Trees", outDate: "Nov. 5", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/14W5xAgpWL45lZ_JxaG4Gzq-yvYMoij1i/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea44e49d-b410-4155-8314-ad9d000ea6aa", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/193jJr00cvKfU7Ipl7cE4S029WpRjYKXB/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML", "Trees"]
+	},
 	{
 		number: 24, title: "ReasonML Syntax and checkError", outDate: "Nov. 3", active: true,
 		links: [
