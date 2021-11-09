@@ -64,15 +64,15 @@ const classes = [
 	// 	],
 	// 	tags: ["Sorting", "Analysis"]
 	// },
-	// { 
-	// 	number: 26, title: "Environments, Contexts, and Lets", outDate: "3/22/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Lambda"]
-	// },
+	{ 
+		number: 26, title: "Muppets Bloopers, More Trees, and Closures", outDate: "Nov. 8", active: true,
+		links: [
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/122YnRwFLIjws8ixicD8gVDjJUJ7BfEHs/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4dee09f6-c989-4335-a255-ad9d000ea6c3", label: "Recording" },
+			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1v3caz1ciF_flNqy_STyuVgImMvsgKwqo/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Evaluation", "Lambda", "Trees", "Muppets"]
+	},
 	{
 		number: 25, title: "ADTs and Trees", outDate: "Nov. 5", active: true,
 		links: [
