@@ -53,10 +53,10 @@ const homeworks = [
 		]
 	},
 	{
-		number: 9, title: "ADTs", dueDate: "Nov. 17, 11 p.m. EST", active: false,
+		number: 9, title: "ADTs", dueDate: "Nov. 17, 11 p.m. EST", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1BIurfliHcFqejoDZ12-uMTFdSxIlpL2g/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/14klADH9bXmMF4wk7IkjtAYXkrPaOtNYc?usp=sharing ", label: "Source Code" },
 		]
 	},
 	{
