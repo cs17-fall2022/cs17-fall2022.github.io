@@ -122,7 +122,7 @@ class HomePage extends React.Component {
 						{this.renderDueSoonCards()}
 					</div>
 					<div className="home-hours">
-						<iframe title={"Google Calendar"} src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=Y182c2I2ZTgzbWczc2FmczU5ZmxqYm9lZnBpY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18zcjV0NTZhOG5uNTc3aHIzcTV1M2Z0b3JvY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23BE6D00&color=%23039BE5&mode=WEEK&showPrint=0&showDate=1&showNav=1" style={{ border: 0 }} width="800" height="600" frameborder="0" scrolling="no"></iframe>
+						<iframe title={"Google Calendar"} src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=Y182c2I2ZTgzbWczc2FmczU5ZmxqYm9lZnBpY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18zcjV0NTZhOG5uNTc3aHIzcTV1M2Z0b3JvY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YnJvd24uZWR1X2hxMTVrajltMDE0Y3RyZGVwcmY2M3NjMTNzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23BE6D00&color=%23039BE5&color=%232952A3&mode=WEEK&showPrint=0&showDate=1&showNav=1" style={{ border: 0 }} width="800" height="600" frameborder="0" scrolling="no"></iframe>
 					</div>
 				</div>
 			</Page>
