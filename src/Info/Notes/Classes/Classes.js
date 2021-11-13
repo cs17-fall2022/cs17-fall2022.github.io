@@ -46,24 +46,24 @@ const classes = [
 	// 	],
 	// 	tags: ["Game"]
 	// },
-	// { 
-	// 	number: 28, title: "More Sorting and Intro to Game", outDate: "3/26/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Sorting", "Analysis", "Game"]
-	// },
-	// { 
-	// 	number: 27, title: "Insertion Sort, Selection Sort, and Merge Sort", outDate: "3/24/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Sorting", "Analysis"]
-	// },
+	{
+		number: 28, title: "Intro to Game", outDate: "Nov. 12", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d90d24e3-eb64-4035-8af8-ad9d000ea70b", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1z0pXvpNHPryopY9M2R80OmYu4DOoFoxs/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Game"]
+	},
+	{
+		number: 27, title: "Let and Merge Sort", outDate: "Nov. 10", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ed57de4-eace-4194-8d5e-ad9d000ea6ea", label: "Recording" },
+			// { icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
+		],
+		tags: ["Sorting", "Analysis"]
+	},
 	{
 		number: 26, title: "Muppets Bloopers, More Trees, and Closures", outDate: "Nov. 8", active: true,
 		links: [
