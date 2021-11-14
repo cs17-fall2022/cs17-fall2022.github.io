@@ -72,9 +72,9 @@ const labs = [
 	{
 		number: 10, title: "Game", dueDate: "Nov. 14-16", active: false,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1eroUL0UBdgEa6oIy1qLs9S1Wnghe7BOZ/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1-SVnY6ER-eO9WfwX2KJ-BW26voi0W49H?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/17i7QPazxFga1Lm1qUimXQfBbLNuIjjJf9JaM80TSSEg/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
