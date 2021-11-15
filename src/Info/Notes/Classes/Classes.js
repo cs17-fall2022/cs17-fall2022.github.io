@@ -58,7 +58,7 @@ const classes = [
 	{ 
 		number: 27, title: "Insertion Sort, Selection Sort, and Merge Sort", outDate: "Nov. 10", active: true,
 		links: [
-			{ icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1SuD3m1tHlzA9Px0gzyXdhhKukddHihVs/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ed57de4-eace-4194-8d5e-ad9d000ea6ea", label: "Recording" },
 			{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 		],
