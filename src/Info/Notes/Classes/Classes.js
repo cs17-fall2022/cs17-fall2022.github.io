@@ -46,7 +46,7 @@ const classes = [
 	// 	],
 	// 	tags: ["Game"]
 	// },
-	{ 
+	{
 		number: 28, title: "Intro to Game", outDate: "Nov. 12", active: true,
 		links: [
 			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
@@ -55,8 +55,8 @@ const classes = [
 		],
 		tags: ["Game"]
 	},
-	{ 
-		number: 27, title: "Insertion Sort, Selection Sort, and Merge Sort", outDate: "Nov. 10", active: true,
+	{
+		number: 27, title: "Let and Merge Sort", outDate: "Nov. 10", active: true,
 		links: [
 			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1SuD3m1tHlzA9Px0gzyXdhhKukddHihVs/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ed57de4-eace-4194-8d5e-ad9d000ea6ea", label: "Recording" },
