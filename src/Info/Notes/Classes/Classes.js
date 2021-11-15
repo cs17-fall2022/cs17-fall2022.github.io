@@ -49,7 +49,7 @@ const classes = [
 	{ 
 		number: 28, title: "Intro to Game", outDate: "Nov. 12", active: true,
 		links: [
-			{ icon: <FaFileAlt/>, link: "", label: "Notes" },
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
 			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d90d24e3-eb64-4035-8af8-ad9d000ea70b", label: "Recording" },
 			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1z0pXvpNHPryopY9M2R80OmYu4DOoFoxs/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],
@@ -60,7 +60,7 @@ const classes = [
 		links: [
 			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1SuD3m1tHlzA9Px0gzyXdhhKukddHihVs/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8ed57de4-eace-4194-8d5e-ad9d000ea6ea", label: "Recording" },
-			{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
+			// { icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 		],
 		tags: ["Sorting", "Analysis"]
 	},
