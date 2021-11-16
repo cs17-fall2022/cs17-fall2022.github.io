@@ -22,11 +22,11 @@ const projects = [
 		]
 	},
 	{
-		number: 3, title: "Game", dueDate: "Dec. 6, 11 p.m. EST", active: false,
+		number: 3, title: "Game", dueDate: "Dec. 6, 11 p.m. EST", active: true,
 		notes: "",
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1EV-U0xg1YUrWmkRDmFRXOsZXSVp6wKjk/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1CrGPUMuPhF0_a5grNTkrhh7kxLwz0-rV?usp=sharing", label: "Source Code" },
 		]
 	}
 ]
