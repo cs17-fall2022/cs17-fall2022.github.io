@@ -60,10 +60,10 @@ const homeworks = [
 		]
 	},
 	{
-		number: 10, title: "Trees", dueDate: "Nov. 23, 11 p.m. EST", active: false,
+		number: 10, title: "Trees", dueDate: "Nov. 23, 11 p.m. EST", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1--MbaTIDzpEc-YI7GshWGDT1KPKu15bn/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1sNU8wWJNchP4bJdeKVZiAKMDFe8qP4Vt?usp=sharing", label: "Source Code" },
 		]
 	},
 	{
