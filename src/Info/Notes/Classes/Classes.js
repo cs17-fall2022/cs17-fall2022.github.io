@@ -19,24 +19,24 @@ const classes = [
 	// 	],
 	// 	tags: ["Game",  "Computational Limits"]
 	// },
-	// { 
-	// 	number: 31, title: "Game - MiniMax (pt. 3)", outDate: "4/2/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Game"]
-	// },
-	// { 
-	// 	number: 30, title: "Game - MiniMax (pt. 2)", outDate: "3/31/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Game"]
-	// },
+	{ 
+		number: 31, title: "Analysis", outDate: "Nov. 19", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7edf454b-49a0-4466-8eaa-ad9d000ea764", label: "Recording" },
+			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1s9roe53nokeRgxStc5-EcCd1Qiggn4OQ/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Analysis"]
+	},
+	{ 
+		number: 30, title: "Game - ArgMax", outDate: "Nov. 17", active: true,
+		links: [
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1YikaDqszbUDonQciuUx-een_pzDA4oua/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e525f37-def3-4674-962e-ad9d000ea748", label: "Recording" },
+			// { icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
+		],
+		tags: ["Game"]
+	},
 	{
 		number: 29, title: "Game - MiniMax", outDate: "Nov. 15", active: true,
 		links: [
