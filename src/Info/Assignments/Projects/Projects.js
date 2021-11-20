@@ -27,6 +27,8 @@ const projects = [
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1EV-U0xg1YUrWmkRDmFRXOsZXSVp6wKjk/view?usp=sharing", label: "Handout" },
 			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1CrGPUMuPhF0_a5grNTkrhh7kxLwz0-rV?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1GkNBwiqLCyYKPosC4XFuWTCTIE_h0ytDRwidCkd5O5w/edit?usp=sharing", label: "Gearup Slides" },
+			{ icon: <FaYoutube />, link: "https://drive.google.com/file/d/1FmfluoiwUJy4Mpo-J7e79gP9NpBt5lKd/view?usp=sharing", label: "Gearup Recording" }
 		]
 	}
 ]
