@@ -78,11 +78,11 @@ const labs = [
 		]
 	},
 	{
-		number: 11, title: "Sort", dueDate: "Nov. 21-23", active: false,
+		number: 11, title: "Sort", dueDate: "Nov. 21-23", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1O4ACrc1oD1UEx-UOU8XKM7hlgdaRzXxM/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/19AXUHpA8D4VTdNRTesre9szhhoOfqaUw?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1aCsMcw79CUlHlvTxnCEyXreTPP5e_BKbecmqOwbsZT8/edit?usp=sharing", label: "Slides" },
 		]
 	},
 
