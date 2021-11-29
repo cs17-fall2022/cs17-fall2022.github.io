@@ -67,14 +67,7 @@ const homeworks = [
 		]
 	},
 	{
-		number: 11, title: "TBA", dueDate: "Dec. 3, 11 p.m. EST", active: false,
-		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
-		]
-	},
-	{
-		number: 12, title: "Final Exam", dueDate: "Dec. 11, 11 p.m. EST", active: false,
+		number: 11, title: "Final Exam", dueDate: "Dec. 11, 11 p.m. EST", active: false,
 		links: [
 			{ icon: <FaFileAlt />, link: "", label: "Handout" },
 			{ icon: <FaCode />, link: "", label: "Source Code" },

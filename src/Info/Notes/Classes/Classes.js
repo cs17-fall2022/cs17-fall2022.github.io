@@ -1,38 +1,38 @@
 import { FaFileAlt, FaYoutube, FaFilePowerpoint } from 'react-icons/fa';
 
 const classes = [
-	// { 
-	// 	number: 33, title: "Limits of Computation", outDate: "4/7/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Computational Limits"]
-	// },
-	// { 
-	// 	number: 32, title: "Diagonals, Limits of Computation", outDate: "4/5/2021", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube/>, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Game",  "Computational Limits"]
-	// },
-	{ 
+	{
+		number: 33, title: "All You Need Is Lambda", outDate: "Nov. 24", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af71e7e4-0fd8-44ea-b0ff-ad9d000ea79c", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/15gFwCq0acFpwVKlndA1CjOofmjDHALG6/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Computational Limits"]
+	},
+	{
+		number: 32, title: "Diagonals (in slides), Limits of Computation", outDate: "Nov. 22", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/10ind3JXI57Tszr3RlmIS8faFOfrOE4ZJ/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=82247bae-ed25-4303-a9e6-ad9d000ea781", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1eUd18v8PJXT-8rv7yimq9jsIFbbZMaC6/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Game", "Computational Limits"]
+	},
+	{
 		number: 31, title: "Analysis", outDate: "Nov. 19", active: true,
 		links: [
 			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
-			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7edf454b-49a0-4466-8eaa-ad9d000ea764", label: "Recording" },
-			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1s9roe53nokeRgxStc5-EcCd1Qiggn4OQ/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7edf454b-49a0-4466-8eaa-ad9d000ea764", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1s9roe53nokeRgxStc5-EcCd1Qiggn4OQ/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Analysis"]
 	},
-	{ 
+	{
 		number: 30, title: "Game - ArgMax", outDate: "Nov. 17", active: true,
 		links: [
-			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1YikaDqszbUDonQciuUx-een_pzDA4oua/view?usp=sharing", label: "Notes" },
-			{ icon: <FaYoutube/>, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e525f37-def3-4674-962e-ad9d000ea748", label: "Recording" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1YikaDqszbUDonQciuUx-een_pzDA4oua/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4e525f37-def3-4674-962e-ad9d000ea748", label: "Recording" },
 			// { icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
 		],
 		tags: ["Game"]
@@ -49,7 +49,7 @@ const classes = [
 	{
 		number: 28, title: "Intro to Game", outDate: "Nov. 12", active: true,
 		links: [
-			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1Qlb2QiYM0trF06hVerY04FIfetYKeTbc/view?usp=sharing", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1Qlb2QiYM0trF06hVerY04FIfetYKeTbc/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d90d24e3-eb64-4035-8af8-ad9d000ea70b", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1z0pXvpNHPryopY9M2R80OmYu4DOoFoxs/edit?usp=sharing&ouid=106478871100678252393&rtpof=true&sd=true", label: "Slides" },
 		],
