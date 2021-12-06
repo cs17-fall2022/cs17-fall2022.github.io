@@ -2,6 +2,33 @@ import { FaFileAlt, FaYoutube, FaFilePowerpoint } from 'react-icons/fa';
 
 const classes = [
 	{
+		number: 36, title: "Divide and Conquer", outDate: "Dec. 3", active: true,
+		links: [
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1sSRWVt0Lq5zUAQbdI1XghS9dK1y2pE81/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d56d08b8-f571-4d99-b91e-ad9d000ea812", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1pGaLNGBEnnOFebDg6TrwW-2IqHZf_Psl/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Exam Review"]
+	},
+	{
+		number: 35, title: "ReProcessing", outDate: "Dec. 1", active: true,
+		links: [
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1oiLTZO5Sl2vtMhAbJl63dMmWYkvnvQ11/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b8e450d1-4013-4d3e-9ab2-ad9d000ea7f5", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/18vpFbBcyWYWIZtXQRHli6YzCP8ixJM1k/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: []
+	},
+	{
+		number: 34, title: "Miscellany", outDate: "Nov. 29", active: true,
+		links: [
+			{ icon: <FaFileAlt/>, link: "https://drive.google.com/file/d/1CQys5D7TM4-79Joz_ndedZjrLxDsGGez/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c04c456d-0125-4cdf-a3e1-ad9d000ea7d9", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1GElHB16wdVFRY5sv_M-WlgtJWi7xUcQV/edit?usp=sharing&ouid=115460781257037025950&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Lists"]
+	},
+	{
 		number: 33, title: "All You Need Is Lambda", outDate: "Nov. 24", active: true,
 		links: [
 			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
