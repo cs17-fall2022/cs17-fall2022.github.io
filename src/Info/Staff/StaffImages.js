@@ -19,7 +19,7 @@ import Isabel from './Images/Isabel.JPG';
 import Stephen from './Images/Stephen.JPG';
 import Alex from './Images/Alex.JPG';
 import Thet from './Images/Thet.JPG';
-import Spike from './Images/Spike.JPG';
+import Spike from './Images/Spike.jpg';
 
 const staffImages = {
 	Alyssa, April, Austin, Bryanna, Cali, Ian, Clark, Colby, Ethan, Harshini,
