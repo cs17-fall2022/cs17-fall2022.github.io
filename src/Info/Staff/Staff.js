@@ -4,8 +4,18 @@ const staff = [
 	{
 		name: "Spike (Professor)", login: "jfh", image: staffImages.Default,
 		hometown: "Barrington, RI", birthday: "July 7", pronouns: "he/him/his",
-		bio: "I'm John Hughes, but people call me Spike. I grew up in Boston and Miami. I've been at Brown since 1984, and still like starting work every morning. I enjoy cooking, messing about in small boats, and singing shape-note music. My children take endless delight in the fact that I once, preparing for class, searched for \"What is popular?\" on Google."
-	}
+		bio: "I've been at Brown since 1984, starting in the Math department and moving to CS in 1994. I'm interested in almost all geometric problems."
+	},
+	{
+		name: "Vandana (HTA)", login: "vramesh1", image: staffImages.Default,
+		hometown: "Mumbai, India", birthday: "January 24", pronouns: "she/her/hers",
+		bio: "Hi!! I’m a senior studying CS and Economics. I love chocolate, fruits, and the colour blue! When I’m not at the CIT, I’m usually dancing, studying languages (the older, the better), reading, or doing art!"
+	},
+	{
+		name: "Kai", login: "kzuang", image: staffImages.Default,
+		hometown: "Frisco, Texas", birthday: "April 6", pronouns: "he/him/his",
+		bio: "Hi guys im a sophomore planning on concentrating in cs. When i'm not busy failing interviews i like to spend my free time catching sunsets, stargazing, or lying in the grass :)"
+	},
 ]
 
 export default staff;
