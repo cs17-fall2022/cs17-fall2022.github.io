@@ -27,6 +27,11 @@ const staff = [
 		bio: "Hi guys im a sophomore planning on concentrating in cs. When i'm not busy failing interviews i like to spend my free time catching sunsets, stargazing, or lying in the grass :)"
 	},
 	{
+		name: "Kristen", login: "kcai6", image: staffImages.Default,
+		hometown: "Vernon Hills, IL", birthday: "July 22", pronouns: "she/her/hers",
+		bio: "she/her/hers"
+	},
+	{
 		name: "Melinda", login: "mzhan157", image: staffImages.Default,
 		hometown: "Andover, MA", birthday: "August 12", pronouns: "she/her/hers",
 		bio: "Hi everyone!! I'm a sophomore planning to concentrate in computational biology. I love cooking and trying new foods, drinking chai/matcha in the engineering cafe, spending time with friends, listening to music (always open to recs!), and going on night walks. I'm so excited to meet and work with you all :))"
