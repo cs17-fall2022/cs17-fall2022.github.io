@@ -29,7 +29,7 @@ const staff = [
 	{
 		name: "Kristen", login: "kcai6", image: staffImages.Default,
 		hometown: "Vernon Hills, IL", birthday: "July 22", pronouns: "she/her/hers",
-		bio: "she/her/hers"
+		bio: "Hi everyone! I’m a sophomore studying APMA-CS. I love mangos, stuffed animals, and sunsets. In my free time I enjoy playing piano & guitar, listening to music, reading books, and going on walks."
 	},
 	{
 		name: "Melinda", login: "mzhan157", image: staffImages.Default,
