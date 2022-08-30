@@ -1,3 +1,5 @@
+Updating Instructions
+
 ### Making Updates
 Updating the course website is super simple: just follow these steps! You must have [Node installed](https://nodejs.org/en/download/). 
 
