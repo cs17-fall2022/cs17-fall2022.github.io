@@ -17,6 +17,11 @@ const staff = [
 		bio: "Hey everyone! I'm a sophomore planning to study CS and cognitive neuroscience. Around campus, I love going to the blue room or chilling somewhere on the main green, so you can probably find me there. I'm also a tutor at BRYTE, so don't hesitate to speak about that or ask me any questions you would like!"
 	},
 	{
+		name: "Bahar", login: "bbirsel", image: staffImages.Default,
+		hometown: "Istanbul, Turkey", birthday: "March 12", pronouns: "she/her/hers",
+		bio: "Helloo! I’m a sophomore studying APMA-CS and a bit of economics. I typically hang out on the main green if it’s not freezing outside. I love dancing, doing road trips and having long talks! I’m an international student so if you have any culture shocks you can share them with me!"
+	},
+	{
 		name: "Caleb", login: "cmoran5", image: staffImages.Default,
 		hometown: "Arlington, VA", birthday: "December 17", pronouns: "he/him/his",
 		bio: "Howdy! I'm a sophomore likely concentrating in APMA-CS. I'm passionate about breakfast at the VDub and play for the men's Ultimate Frisbee A Team (currently #2 in the country). Let's chat about favorite movies, herbal teas, and why the Hay is the best library"
@@ -45,6 +50,11 @@ const staff = [
 		name: "Ronnie", login: "rshashou", image: staffImages.Default,
 		hometown: "Miami, FL", birthday: "September 5", pronouns: "she/her/hers",
 		bio: "Hi! I'm Ronnie, a sophomore from Miami, FL double-concentrating in CS and Urban Studies. In my free time, I like cooking and baking for my friends as well as looking for dogs to pet on the Main Green."
+	},
+	{
+		name: "Sean", login: "syu66", image: staffImages.Default,
+		hometown: "Ellicott City, MD", birthday: "April 22", pronouns: "he/him/his",
+		bio: "Hi everyone! I'm sean, and I'm a sophomore studying CS and maaayybe premed. On campus, I'm a cellist in the orchestra, and when I'm not working or sleeping, I'm watching kdramas (alchemy of souls>>>) reading manhwas, and eating at andrews and the ivy room."
 	},
 	{
 		name: "Stephen", login: "schen211", image: staffImages.Default, 
