@@ -19,12 +19,22 @@ const staff = [
 	{
 		name: "Bahar", login: "bbirsel", image: staffImages.Default,
 		hometown: "Istanbul, Turkey", birthday: "March 12", pronouns: "she/her/hers",
-		bio: "Helloo! I’m a sophomore studying APMA-CS and a bit of economics. I typically hang out on the main green if it’s not freezing outside. I love dancing, doing road trips and having long talks! I’m an international student so if you have any culture shocks you can share them with me!"
+		bio: "Helloo! I'm a sophomore studying APMA-CS and a bit of economics. I typically hang out on the main green if it's not freezing outside. I love dancing, doing road trips and having long talks! I'm an international student so if you have any culture shocks you can share them with me!"
 	},
 	{
 		name: "Caleb", login: "cmoran5", image: staffImages.Default,
 		hometown: "Arlington, VA", birthday: "December 17", pronouns: "he/him/his",
 		bio: "Howdy! I'm a sophomore likely concentrating in APMA-CS. I'm passionate about breakfast at the VDub and play for the men's Ultimate Frisbee A Team (currently #2 in the country). Let's chat about favorite movies, herbal teas, and why the Hay is the best library"
+	},
+	{
+		name: "Dru", login: "estill", image: staffImages.Default,
+		hometown: "Tulsa, OK", birthday: "July 13", pronouns: "he/him/his",
+		bio: "Hi! I'm a sophomore from Oklahoma likely studying APMA-CS. You can usually find me studying Chinese or watching YouTube/anime."
+	},
+	{
+		name: "Jean", login: "syoo28", image: staffImages.Default,
+		hometown: "Salt Lake City, UT", birthday: "January 16", pronouns: "she/her/hers",
+		bio: "Hi! I'm a sophomore studying APMA-CS. I love coffee, Taylor Swift, and breakfast for dinner. In my free time, I like to go on hikes, solve the NYT mini crossword, ski, and read books."
 	},
 	{
 		name: "Kai", login: "kzuang", image: staffImages.Default,
@@ -60,6 +70,11 @@ const staff = [
 		name: "Stephen", login: "schen211", image: staffImages.Default, 
 		hometown: "Plymouth, MN", birthday: "September 29", pronouns: "he/him/his",
 		bio: "Hi! I'm a senior studying CS from Plymouth, Minnesota (right next to the Twin Cities). In my free time, you can find me either listening to the same three Taylor Swift songs on loop or losing in League of Legends."
+	},
+	{
+		name: "Eva (STA)", login: "eschill4", image: staffImages.Default,
+		hometown: "Tewksbury, NJ", birthday: "March 19", pronouns: "she/her/hers",
+		bio: "Hi everyone! I am the STA for CS17 this fall, and I'm hoping to concentrate in either APMA-CS or CS-STS. In my free time, you can find me on the greens, in one of the many Thayer boba shops, or enjoying the beautiful scenery of Perkins Hall. Feel free to email/reach out with any questions!"
 	}
 	// {
 	// 	name: "", login: "", image: staffImages.Default,
