@@ -7,6 +7,11 @@ const staff = [
 		bio: "I've been at Brown since 1984, starting in the Math department and moving to CS in 1994. I'm interested in almost all geometric problems."
 	},
 	{
+		name: "Bryanna (HTA)", login: "bpajotte", image: staffImages.Default,
+		hometown: "Orlando, FL", birthday: "March 21", pronouns: "she/her/hers",
+		bio: "Hey y'all! I'm a junior concentrating in CS. I'm a huge foodie and self proclaimed sitcom enthusiast (community is my current favorite). Outside of TAing, I enjoy practicing ASL, making pinterest boards, and doing social media for Students of Caribbean Ancestry (SOCA)!"
+	},
+	{
 		name: "Vandana (HTA)", login: "vramesh1", image: staffImages.Default,
 		hometown: "Mumbai, India", birthday: "January 24", pronouns: "she/her/hers",
 		bio: "Hi!! I'm a senior studying CS and Economics. I'm also doing a concurrent Master's in CS and I'd be happy to answer questions about it. I love chocolate, fruits, and the colour blue! When I'm not at the CIT, I'm usually dancing, studying languages (the older, the better), reading, or doing art!"
@@ -27,9 +32,19 @@ const staff = [
 		bio: "Howdy! I'm a sophomore likely concentrating in APMA-CS. I'm passionate about breakfast at the VDub and play for the men's Ultimate Frisbee A Team (currently #2 in the country). Let's chat about favorite movies, herbal teas, and why the Hay is the best library"
 	},
 	{
+		name: "Damir", login: "dkulzhan", image: staffImages.Default,
+		hometown: "Taraz, Kazakhstan", birthday: "January 4", pronouns: "he/him/his",
+		bio: "Hey everyone! I'm a sophomore studying Computer Engineering/CS. I love night walking, listening to Imagine Dragons, and watching anime! Excited to meet y'all!"
+	},
+	{
 		name: "Dru", login: "estill", image: staffImages.Default,
 		hometown: "Tulsa, OK", birthday: "July 13", pronouns: "he/him/his",
 		bio: "Hi! I'm a sophomore from Oklahoma likely studying APMA-CS. You can usually find me studying Chinese or watching YouTube/anime."
+	},
+	{
+		name: "Ellis", login: "eward7", image: staffImages.Default,
+		hometown: "Dettenhausen, Germany", birthday: "July 31", pronouns: "he/him/his",
+		bio: "Hi everyone, I'm so excited to be your TA this semester! I'm a junior studying CS and maybe squeezing in Geophysics, but my love of the open curriculum is such that that might not happen. I was born in and lived in Germany for most of my life, but both my parents are Americans. I also went to UWC-USA, so if any of those experiences speak to you I'd love to hear from you!"
 	},
 	{
 		name: "Jean", login: "syoo28", image: staffImages.Default,
@@ -44,7 +59,7 @@ const staff = [
 	{
 		name: "Kristen", login: "kcai6", image: staffImages.Default,
 		hometown: "Vernon Hills, IL", birthday: "July 22", pronouns: "she/her/hers",
-		bio: "Hi everyone! I’m a sophomore studying APMA-CS. I love mangos, stuffed animals, and sunsets. In my free time I enjoy playing piano & guitar, listening to music, reading books, and going on walks."
+		bio: "Hi everyone! I'm a sophomore studying APMA-CS. I love mangos, stuffed animals, and sunsets. In my free time I enjoy playing piano & guitar, listening to music, reading books, and going on walks."
 	},
 	{
 		name: "Melinda", login: "mzhan157", image: staffImages.Default,
@@ -55,6 +70,11 @@ const staff = [
 		name: "Michelle", login: "mliu107", image: staffImages.Default,
 		hometown: "Reno, NV", birthday: "July 22", pronouns: "she/her/hers",
 		bio: "Hello I'm Michelle! I'm a sophomore studying APMA-CS. I love climbing, aerial silks, and piano. Also enjoy anime and dim sum :)"
+	},
+	{
+		name: "Prithvi", login: "poak1", image: staffImages.Default,
+		hometown: "New Delhi, India", birthday: "April 16", pronouns: "New Delhi, India",
+		bio: "Hi!!! I’m a sophomore concentrating in Applied Mathematics and Computer Science. In my free time, you’ll catch me skipping around campus, jamming in Steinert, or watching F1."
 	},
 	{
 		name: "Ronnie", login: "rshashou", image: staffImages.Default,
