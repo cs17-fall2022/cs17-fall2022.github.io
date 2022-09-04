@@ -107,6 +107,11 @@ const staff = [
 		bio: "Hi everyone! I'm sean, and I'm a sophomore studying CS and maaayybe premed. On campus, I'm a cellist in the orchestra, and when I'm not working or sleeping, I'm watching kdramas (alchemy of souls>>>) reading manhwas, and eating at andrews and the ivy room."
 	},
 	{
+		name: "Sebastian", login: "spark265", image: staffImages.Default,
+		hometown: "Brookline, MA", birthday: "June 7", pronouns: "he/him/his",
+		bio: "Hello! I'm Sebastian, and I'm a sophomore from Brookline, MA (right outside of Boston), and I’m planning on studying CS. I’m into beatboxing (boots and cats), languages, making games, Jacob Collier, jazz (the only REAL kind of music no no I’m just kidding), playing piano poorly, procrastinating, and many more things, so if you’re into any of those, please come talk to me! Even if you’re not into any of those, still come talk to me! Although I may seem scary on the outside, I’m less frightening than I look, and I love to meet new people! I just don’t know how to smile in photos. Excited to TA for you this semester! :smiley:"
+	},
+	{
 		name: "Stephen", login: "schen211", image: staffImages.Default, 
 		hometown: "Plymouth, MN", birthday: "September 29", pronouns: "he/him/his",
 		bio: "Hi! I'm a senior studying CS from Plymouth, Minnesota (right next to the Twin Cities). In my free time, you can find me either listening to the same three Taylor Swift songs on loop or losing in League of Legends."
@@ -116,11 +121,6 @@ const staff = [
 		hometown: "Tewksbury, NJ", birthday: "March 19", pronouns: "she/her/hers",
 		bio: "Hi everyone! I am the STA for CS17 this fall, and I'm hoping to concentrate in either APMA-CS or CS-STS. In my free time, you can find me on the greens, in one of the many Thayer boba shops, or enjoying the beautiful scenery of Perkins Hall. Feel free to email/reach out with any questions!"
 	}
-	// {
-	// 	name: "", login: "", image: staffImages.Default,
-	// 	hometown: "", birthday: "", pronouns: "",
-	// 	bio: ""
-	// }
 ]
 
 export default staff;
