@@ -7,9 +7,19 @@ const staff = [
 		bio: "I've been at Brown since 1984, starting in the Math department and moving to CS in 1994. I'm interested in almost all geometric problems."
 	},
 	{
+		name: "Austin (HTA)", login: "amiles6", image: staffImages.Default,
+		hometown: "Glade Valley, NC", birthday: "April 15", pronouns: "he/him/his",
+		bio: "Hi everyone! I'm a junior concentrating in CS (let me know if you need any advising help :D). In my free time, I love to cook, play video games, and read tons of books."
+	},
+	{
 		name: "Bryanna (HTA)", login: "bpajotte", image: staffImages.Default,
 		hometown: "Orlando, FL", birthday: "March 21", pronouns: "she/her/hers",
 		bio: "Hey y'all! I'm a junior concentrating in CS. I'm a huge foodie and self proclaimed sitcom enthusiast (community is my current favorite). Outside of TAing, I enjoy practicing ASL, making pinterest boards, and doing social media for Students of Caribbean Ancestry (SOCA)!"
+	},
+	{
+		name: "Thet (HTA)", login: "tzaw", image: staffImages.Default,
+		hometown: "Brooklyn, NY", birthday: "April 6", pronouns: "he/him/his",
+		bio: "Hello hello everyone! I'm a senior double concentrating in CS and Education Studies and this is the third time I'm TA'ing CS17! When I'm not busy with school or work, I'm usually thinking a lot about D&D and video games. I'm also both U-FLi and an immigrant so if anyone has questions about being U-FLi at Brown or just want solidarity, feel free to come talk to me! I look forward to seeing everyone this next semester!"
 	},
 	{
 		name: "Vandana (HTA)", login: "vramesh1", image: staffImages.Default,
@@ -20,6 +30,11 @@ const staff = [
 		name: "Amaris", login: "amarisg25", image: staffImages.Default,
 		hometown: "London, UK", birthday: "November 25", pronouns: "she/her/hers",
 		bio: "Hey everyone! I'm a sophomore planning to study CS and cognitive neuroscience. Around campus, I love going to the blue room or chilling somewhere on the main green, so you can probably find me there. I'm also a tutor at BRYTE, so don't hesitate to speak about that or ask me any questions you would like!"
+	},
+	{
+		name: "Anna", login: "anovatne", image: staffImages.Default,
+		hometown: "San Francisco, CA", birthday: "March 6", pronouns: "she/her/hers",
+		bio: " "
 	},
 	{
 		name: "Bahar", login: "bbirsel", image: staffImages.Default,
@@ -40,6 +55,11 @@ const staff = [
 		name: "Dru", login: "estill", image: staffImages.Default,
 		hometown: "Tulsa, OK", birthday: "July 13", pronouns: "he/him/his",
 		bio: "Hi! I'm a sophomore from Oklahoma likely studying APMA-CS. You can usually find me studying Chinese or watching YouTube/anime."
+	},
+	{
+		name: "Effy", login: "ttran59", image: staffImages.Default,
+		hometown: "San Jose, CA", birthday: "March 13", pronouns: "she/her/hers",
+		bio: "Hello!! I'm a sophomore studying CS and Visual Arts. I love sketching, rewatching every episode of Brooklyn 99 and Community (six seasons and a movie!!), and reading postmodern philosophy."
 	},
 	{
 		name: "Ellis", login: "eward7", image: staffImages.Default,
@@ -74,7 +94,7 @@ const staff = [
 	{
 		name: "Prithvi", login: "poak1", image: staffImages.Default,
 		hometown: "New Delhi, India", birthday: "April 16", pronouns: "New Delhi, India",
-		bio: "Hi!!! I’m a sophomore concentrating in Applied Mathematics and Computer Science. In my free time, you’ll catch me skipping around campus, jamming in Steinert, or watching F1."
+		bio: "Hi!!! I'm a sophomore concentrating in Applied Mathematics and Computer Science. In my free time, you'll catch me skipping around campus, jamming in Steinert, or watching F1."
 	},
 	{
 		name: "Ronnie", login: "rshashou", image: staffImages.Default,
