@@ -109,7 +109,7 @@ const staff = [
 	{
 		name: "Sebastian", login: "spark265", image: staffImages.Default,
 		hometown: "Brookline, MA", birthday: "June 7", pronouns: "he/him/his",
-		bio: "Hello! I'm Sebastian, and I'm a sophomore from Brookline, MA (right outside of Boston), and I’m planning on studying CS. I’m into beatboxing (boots and cats), languages, making games, Jacob Collier, jazz (the only REAL kind of music no no I’m just kidding), playing piano poorly, procrastinating, and many more things, so if you’re into any of those, please come talk to me! Even if you’re not into any of those, still come talk to me! Although I may seem scary on the outside, I’m less frightening than I look, and I love to meet new people! I just don’t know how to smile in photos. Excited to TA for you this semester! :smiley:"
+		bio: "Hello! I'm Sebastian, and I'm a sophomore from Brookline, MA (right outside of Boston), and I'm planning on studying CS. I'm into beatboxing (boots and cats), languages, making games, Jacob Collier, jazz (the only REAL kind of music no no I'm just kidding), playing piano poorly, procrastinating, and many more things, so if you're into any of those, please come talk to me! Even if you're not into any of those, still come talk to me! Although I may seem scary on the outside, I'm less frightening than I look, and I love to meet new people! I just don't know how to smile in photos. Excited to TA for you this semester!"
 	},
 	{
 		name: "Stephen", login: "schen211", image: staffImages.Default, 
