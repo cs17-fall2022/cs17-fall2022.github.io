@@ -317,7 +317,7 @@ const classes = [
 	// 	tags: ["Racket", "Definitions", "Evaluation"]
 	// },
 	{
-		number: 1, title: "Welcome", outDate: "Sept. 8", active: true,
+		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
 			{ icon: <FaFileAlt />, link: "", label: "Notes" },
 			{ icon: <FaYoutube />, link: "", label: "Recording" },
