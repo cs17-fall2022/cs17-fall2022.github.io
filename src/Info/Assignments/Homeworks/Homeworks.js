@@ -60,14 +60,14 @@ const homeworks = [
 		]
 	},
 	{
-		number: 10, title: "To be decided", dueDate: "Nov. 22, 11 p.m. EST", active: false,
+		number: 10, title: "Coming Soon!", dueDate: "Nov. 22, 11 p.m. EST", active: false,
 		links: [
 			{ icon: <FaFileAlt />, link: "", label: "Handout" },
 			{ icon: <FaCode />, link: "", label: "Source Code" },
 		]
 	},
 	{
-		number: 11, title: "Final Exam", dueDate: "???", active: false,
+		number: 11, title: "Final Exam", dueDate: "Dec. 9, 3 p.m. EST", active: false,
 		links: [
 			{ icon: <FaFileAlt />, link: "", label: "Handout" },
 			{ icon: <FaCode />, link: "", label: "Source Code" },
