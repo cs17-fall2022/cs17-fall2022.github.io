@@ -2,7 +2,7 @@ import staffImages from './StaffImages';
 
 const staff = [
 	{
-		name: "Spike (Professor)", login: "jfh", image: staffImages.Default,
+		name: "Spike (Professor)", login: "jfh", image: staffImages.Spike,
 		hometown: "Barrington, RI", birthday: "July 7", pronouns: "he/him/his",
 		bio: "I've been at Brown since 1984, starting in the Math department and moving to CS in 1994. I'm interested in almost all geometric problems."
 	},
@@ -34,7 +34,7 @@ const staff = [
 	{
 		name: "Anna", login: "anovatne", image: staffImages.Default,
 		hometown: "San Francisco, CA", birthday: "March 6", pronouns: "she/her/hers",
-		bio: " "
+		bio: "Hi! I'm a senior studying CS and geology. I love the outdoors and exploring Providence and so excited to TA for you this next semester!"
 	},
 	{
 		name: "Bahar", login: "bbirsel", image: staffImages.Default,
