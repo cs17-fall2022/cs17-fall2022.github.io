@@ -114,8 +114,7 @@ class HomePage extends React.Component {
 					<div className="home-announcement">
 						<div>
 							<div><FaExclamation /></div>
-							<p><mark>Announcements: </mark>Welcome! The website is still in progress!
-							<br></br>
+							<p><mark>Announcements: </mark>
 							For at least the first two weeks of the semester, everyone must wear a mask during class.
 							You can get ahead by installing <a href='https://racket-lang.org/download/'>DrRacket</a> and bringing your laptop to class.</p>
 						</div>
