@@ -320,8 +320,8 @@ const classes = [
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
 			{ icon: <FaFileAlt />, link: "", label: "Notes" },
-			{ icon: <FaYoutube />, link: "", label: "Recording" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2727248-aff7-4e78-8764-af090024f5b4", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1nGRI2vRghzUIwadPTml9mljqdFwiMYWP/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket"]
 	},

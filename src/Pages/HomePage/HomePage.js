@@ -116,7 +116,9 @@ class HomePage extends React.Component {
 							<div><FaExclamation /></div>
 							<p><mark>Announcements: </mark>
 							For at least the first two weeks of the semester, everyone must wear a mask during class.
-							You can get ahead by installing <a href='https://racket-lang.org/download/'>DrRacket</a> and bringing your laptop to class.</p>
+							You can get ahead by installing <a href='https://racket-lang.org/download/'>DrRacket</a> and bringing your laptop to class.
+							<br/>
+							Homework 1 has been released! If you have any questions or have not received our Welcome email, please email us at cs0170headtas@lists.brown.edu!</p>
 						</div>
 					</div>
 					{/* <div className="home-announcement">
