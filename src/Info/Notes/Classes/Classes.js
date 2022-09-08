@@ -319,7 +319,7 @@ const classes = [
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mSC4T3zlkwyU3nYbdt3mZbXHC0RBIugT/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2727248-aff7-4e78-8764-af090024f5b4", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1nGRI2vRghzUIwadPTml9mljqdFwiMYWP/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
