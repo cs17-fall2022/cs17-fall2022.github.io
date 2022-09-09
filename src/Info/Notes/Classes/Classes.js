@@ -307,15 +307,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Racket", "Evaluation"]
 	// },
-	// {
-	// 	number: 2, title: "Racket and BNF", outDate: "Sept. 10", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Definitions", "Evaluation"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -325,6 +316,15 @@ const classes = [
 		],
 		tags: ["Racket"]
 	},
+	{
+		number: 2, title: "Arithmetic, Types, and Keywords", outDate: "Sept. 9", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c91723e-66e8-48f3-9631-af090024f5f7", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1_XF48MpBTqlu89RkIxbvlMlEUrsQCJdo/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket", "Definitions", "Evaluation"]
+	}
 ]
 
 export default classes;
