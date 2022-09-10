@@ -16,7 +16,7 @@ export const Resources = [
 			[
 				{ label: "Course Policies/Collaboration Policy", link: "https://drive.google.com/file/d/1baGoAOAWQdMptAQz04wZdMOK5TLZauTR/view?usp=sharing" },
 				{ label: "Guide to TA Hours", link: "https://drive.google.com/file/d/1ZEyDpxNA04oPC5IPIs9pNU7CwOC3-_qD/view?usp=sharing" },
-				{ label: "Pair Programming Guide", link: "https://drive.google.com/file/d/1smYXfV3tuh6M-K71hIT7KzRwdJ1irQR0/view?usp=sharing" },
+				{ label: "Pair and Buddy Programming Guide", link: "https://drive.google.com/file/d/1smYXfV3tuh6M-K71hIT7KzRwdJ1irQR0/view?usp=sharing" },
 				{ label: "Design Recipe Guide", link: "https://drive.google.com/file/d/178m3kvxfUl73Z6QRLbGs9CT39W44m-wy/view?usp=sharing" },
 				{ label: "EdStem Guide", link: "https://drive.google.com/file/d/1cNWz7Mhsgc8QfTBEgvzRIZi8xoVJKp3d/view?usp=sharing" }
 			]
