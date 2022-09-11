@@ -116,23 +116,13 @@ class HomePage extends React.Component {
 							<div><FaExclamation /></div>
 							<p><mark>Announcements: </mark>
 							For at least the first two weeks of the semester, everyone must wear a mask during class.
-							You can get ahead by installing <a href='https://racket-lang.org/download/'>DrRacket</a> and bringing your laptop to class.
 							<br/>
-							Homework 1 has been released! If you have any questions or have not received our Welcome email, please email us at cs0170headtas@lists.brown.edu!</p>
+							Homework 1 has been released! If you have any questions or have not received our Welcome email, please email us at cs0170headtas@lists.brown.edu!
+							<br/>
+							Lab sections have also been released! If you do not see your name, please email the HTAs immediately.
+							</p>
 						</div>
 					</div>
-					{/* <div className="home-announcement">
-						<div>
-							<div><FaExclamation /></div>
-							<p><mark>Announcements: </mark>For at least the first two weeks of the semester, everyone is expected to wear a mask during class.</p>
-						</div>
-					</div> */}
-					{/* <div className="home-announcement">
-						<div>
-							<div><FaExclamation /></div>
-							<p><mark>Announcement: </mark>You can get a bit ahead by installing <a href='https://racket-lang.org/download/'>DrRacket</a> and bringing your laptop to class.</p>
-						</div>
-					</div> */}
 					<div className="home-due-soon">
 						<h1>Current Assignments</h1>
 						{this.renderDueSoonCards()}
