@@ -117,9 +117,7 @@ class HomePage extends React.Component {
 							<p><mark>Announcements: </mark>
 							For at least the first two weeks of the semester, everyone must wear a mask during class.
 							<br/>
-							Homework 1 has been released! If you have any questions or have not received our Welcome email, please email us at cs0170headtas@lists.brown.edu!
-							<br/>
-							Lab sections have also been released! If you do not see your name, please email the HTAs immediately.
+							Homework 1 and lab assignments have been released! If you have any questions or have not been assigned a lab, please email us at cs0170headtas@lists.brown.edu!
 							</p>
 						</div>
 					</div>
