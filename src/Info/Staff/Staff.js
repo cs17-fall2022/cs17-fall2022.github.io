@@ -93,7 +93,7 @@ const staff = [
 	},
 	{
 		name: "Prithvi", login: "poak1", image: staffImages.Prithvi,
-		hometown: "New Delhi, India", birthday: "April 16", pronouns: "New Delhi, India",
+		hometown: "New Delhi, India", birthday: "April 16", pronouns: "he/him/his",
 		bio: "Hi!!! I'm a sophomore concentrating in Applied Mathematics and Computer Science. In my free time, you'll catch me skipping around campus, jamming in Steinert, or watching F1."
 	},
 	{
