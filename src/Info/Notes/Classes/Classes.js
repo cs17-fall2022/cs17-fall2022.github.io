@@ -289,15 +289,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Design Recipe", "Racket", "Evaluation"]
 	// },
-	// {
-	// 	number: 4, title: "Definitions and Procedures", outDate: "Sept. 15", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Procedures", "Evaluation"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -317,14 +308,23 @@ const classes = [
 		tags: ["Racket", "Definitions", "Evaluation"]
 	},
 	{
-		number: 3, title: "BNF and Processing", outDate: "Sept. 12", active: true,
+		number: 3, title: "Racket, Processing, and BNF", outDate: "Sept. 12", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1kZfSjA1t5m_zisufCXNbbNQH0ko6jboW/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c04966b-e6b0-410d-8b7d-af090024f60e", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1pIaR4zicAsXQUjmylCU5xdlUYhkc-Ruv/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket", "Evaluation"]
 	},
+	// {
+	// 	number: 4, title: "Definitions and Procedures", outDate: "Sept. 15", active: true,
+	// 	links: [
+	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
+	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
+	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+	// 	],
+	// 	tags: ["Racket", "Procedures", "Evaluation"]
+	// }
 ]
 
 export default classes;
