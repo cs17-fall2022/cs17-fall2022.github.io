@@ -8,9 +8,9 @@ const homeworks = [
 		]
 	},
 	{
-		number: 2, title: "Procedures", dueDate: "Sept. 21, 11 p.m. EDT", active: false,
+		number: 2, title: "Procedures", dueDate: "Sept. 21, 11 p.m. EDT", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1AA1iFkPo3HNv75FhQehjnrULpMRUgnTO/view?usp=sharing", label: "Handout" },
 		]
 	},
 	{

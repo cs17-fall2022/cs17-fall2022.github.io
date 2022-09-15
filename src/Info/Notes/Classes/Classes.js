@@ -316,15 +316,15 @@ const classes = [
 		],
 		tags: ["Racket", "Evaluation"]
 	},
-	// {
-	// 	number: 4, title: "Definitions and Procedures", outDate: "Sept. 15", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Procedures", "Evaluation"]
-	// }
+	{
+		number: 4, title: "Syntax and Semantics", outDate: "Sept. 14", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c57237a-6738-41ab-9644-af1000ecc248", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1w6SOA51U5SDTXK2RQ39LJALzJZpc3Hkk/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket", "Procedures", "Evaluation"]
+	}
 ]
 
 export default classes;
