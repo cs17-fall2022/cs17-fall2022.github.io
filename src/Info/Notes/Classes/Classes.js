@@ -280,15 +280,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Racket", "Evaluation"]
 	// },
-	// {
-	// 	number: 5, title: "Definitions and Design Recipe", outDate: "Sept. 17", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Design Recipe", "Racket", "Evaluation"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,7 +315,16 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1w6SOA51U5SDTXK2RQ39LJALzJZpc3Hkk/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket", "Procedures", "Evaluation"]
-	}
+	},
+	{
+		number: 5, title: "Definitions and Design Recipe", outDate: "Sept. 16", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f9d2c79-269c-45ba-86bc-af1000ecc2a2", label: "Recording" },
+			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+		],
+		tags: ["Design Recipe", "Racket", "Evaluation"]
+	},
 ]
 
 export default classes;
