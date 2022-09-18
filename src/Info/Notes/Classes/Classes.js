@@ -319,9 +319,9 @@ const classes = [
 	{
 		number: 5, title: "Definitions and Design Recipe", outDate: "Sept. 16", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/15VAStyJeaxtRPY4cnrliyl4nf6G0rfyT/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4f9d2c79-269c-45ba-86bc-af1000ecc2a2", label: "Recording" },
-			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/19LklF5NNvNFB7tRkdHXzHSS8tbWsz-Ut/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Design Recipe", "Racket", "Evaluation"]
 	},
