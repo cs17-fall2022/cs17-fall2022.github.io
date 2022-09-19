@@ -12,7 +12,7 @@ const labs = [
 		number: 2, title: "Racket Introduction", dueDate: "Sept. 18-20", active: true,
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1AZK1KeE4O2TxavLQHH0wQ_Z25UlzQweQ/view?usp=sharing", label: "Handout" },
-			{ icon: <FaCode />, link: "https://drive.google.com/file/d/1lOdbEm91YYwxRugpdOG2rJKqC2GdFZpE/view?usp=sharing", label: "Source Code" },
+			// { icon: <FaCode />, link: "https://drive.google.com/file/d/1lOdbEm91YYwxRugpdOG2rJKqC2GdFZpE/view?usp=sharing", label: "Source Code" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1qQ90adoC2CMQZZjQtbD7Ct0E_vHqSGQQ9CGHLSTGmyM/edit?usp=sharing", label: "Slides" },
 		]
 	},
