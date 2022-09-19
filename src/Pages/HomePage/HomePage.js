@@ -116,11 +116,11 @@ class HomePage extends React.Component {
 							<div><FaExclamation /></div>
 							<p><mark>Announcements: </mark>
 							<br/>
-							- For at least the first two weeks of the semester, everyone must wear a mask during class.
+							- Everyone must wear a mask during class until further notice.
+							<br/>
+							- Labs and TA Hours will all be virtual also until further notice.
 							<br/>
 							- Classes are now in Barus & Holley Room 168! We'll see everyone there!
-							<br/>
-							- Homework 1 and Lab assignments have been released! If you have any questions or have not been assigned a lab, please email us at cs0170headtas@lists.brown.edu!
 							</p>
 						</div>
 					</div>
