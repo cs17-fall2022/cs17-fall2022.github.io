@@ -94,7 +94,7 @@ class HomePage extends React.Component {
 								science class at Brown University — emphasis on intro!!
 								We take your ideas very seriously and want to make a welcoming environment
 								for everyone who wants to learn CS — fill out our {" "}
-								<a href="https://forms.gle/Fk9jZpGrgRgeZXDg6" target="_blank" rel="noopener noreferrer">
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSc90q808orP2UEUYiZSWGvaqc2lLEe_-UdPoGmPa2Cj5vNSUg/viewform" target="_blank" rel="noopener noreferrer">
 									anonymous feedback form
 								</a>
 								{" "} to let us know if we can do anything better!

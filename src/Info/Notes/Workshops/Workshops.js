@@ -2,9 +2,9 @@ import { FaFilePowerpoint, FaYoutube } from "react-icons/fa";
 
 const workshops = [
 	{
-		number: 1, title: "Learning CS and Fun with DrRacket", outDate: "Sept. 12-13", active: false,
+		number: 1, title: "Learning CS and Fun with DrRacket", outDate: "Sept. 12-13", active: true,
 		links: [
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/180bnESyw0ghVeNxApzs2TV5ALze0egzdFBteFbgUSgU/edit", label: "Slides" },
 		]
 	},
 	{
