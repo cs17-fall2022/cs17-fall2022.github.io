@@ -310,7 +310,7 @@ const classes = [
 	{
 		number: 4, title: "Syntax and Semantics", outDate: "Sept. 14", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1zwgE0Rn3l08ydOkRYN7BK9q887ftZtcf/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c57237a-6738-41ab-9644-af1000ecc248", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1w6SOA51U5SDTXK2RQ39LJALzJZpc3Hkk/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
