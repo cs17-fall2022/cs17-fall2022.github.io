@@ -271,15 +271,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Lists", "Racket"]
 	// },
-	// {
-	// 	number: 6, title: "Booleans and Short Circuiting", outDate: "Sept. 20", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Evaluation"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/19LklF5NNvNFB7tRkdHXzHSS8tbWsz-Ut/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Design Recipe", "Racket", "Evaluation"]
+	},
+	{
+		number: 6, title: "Lists and List Procedures", outDate: "Sept. 19", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d68a86f6-8c04-40dd-898d-af1000ecc2c4", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kZcyas7RZmD2RmVOzAvUJDs5IV1cbUdG/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket", "Evaluation"]
 	},
 ]
 
