@@ -262,15 +262,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Lists", "Recursion", "Racket"]
 	// },
-	// {
-	// 	number: 7, title: "Lists", outDate: "Sept. 22", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Lists", "Racket"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -323,7 +314,16 @@ const classes = [
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d68a86f6-8c04-40dd-898d-af1000ecc2c4", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kZcyas7RZmD2RmVOzAvUJDs5IV1cbUdG/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
-		tags: ["Design Recipe", "Racket", "Evaluation"]
+		tags: ["Design Recipe", "Racket", "Evaluation", "Lists"]
+	},
+	{
+		number: 7, title: "List Recursion", outDate: "Sept. 21", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b617010-8ec9-4b6b-b8fb-af1000ecc2e6", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1bvluJI6BzJpBKpfhgchXhFyHF-cl20kq/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Lists", "Racket", "Recursion"]
 	},
 ]
 
