@@ -121,8 +121,6 @@ class HomePage extends React.Component {
 							- Labs and TA Hours will all be virtual also until further notice.
 							<br/>
 							- Classes are now in Barus & Holley Room 168! We'll see everyone there!
-							<br/>
-							- The first project will be released soon! Please fill out the partner pairing form <a href="https://docs.google.com/forms/d/e/1FAIpQLSfILQma6D9NXM_X50ETHiNNmz9ct6IeHDlLGbf_3Tl16pjYfQ/viewform">here</a>.
 							</p>
 						</div>
 					</div>

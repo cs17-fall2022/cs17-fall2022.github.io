@@ -17,10 +17,10 @@ const labs = [
 		]
 	},
 	{
-		number: 3, title: "Recursion", dueDate: "Sept. 25-27", active: false,
+		number: 3, title: "Recursion", dueDate: "Sept. 25-27", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mA3N_i4VrsNg9F7EQcp-QmUO4KnewBX2/view?usp=sharing", label: "Handout" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/16M8xl1tquvMvq6J0CXGdkCWdbGJhy45T0gU_OrL2aSA/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
