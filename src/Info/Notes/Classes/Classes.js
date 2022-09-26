@@ -310,7 +310,7 @@ const classes = [
 	{
 		number: 8, title: "Recursion and Operation Counting", outDate: "Sept. 23", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1IeJ6AD3p1HfFw50HdnsYVzxs7z9ojGSM/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a73c6e60-0fb7-48b8-a679-af1000ecc305", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1INaMWj1ApHfS9ZuA6VVHdMtsBWiR7vaj/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
