@@ -116,11 +116,15 @@ class HomePage extends React.Component {
 							<div><FaExclamation /></div>
 							<p><mark>Announcements: </mark>
 							<br/>
-							- Everyone must wear a mask during class until further notice.
+							- Everyone must wear a mask during class.
 							<br/>
-							- Labs and TA Hours will all be virtual also until further notice.
+							- Labs and TA Hours will all be virtual until further notice.
 							<br/>
-							- Classes are now in Barus & Holley Room 168! We'll see everyone there!
+							- Project 1: Bignum has now been released! If you don't have a partner, please email the HTAs. 
+							<br/>
+							- Please sign up for a Bignum Design Check time by Wednesday if you have received your Bignum TA.
+							<br/>
+							- Bignum Gearup times are on Ed and on our calendar.
 							</p>
 						</div>
 					</div>

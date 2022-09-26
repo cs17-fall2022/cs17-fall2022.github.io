@@ -244,15 +244,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Analysis", "Racket"]
 	// },
-	// {
-	// 	number: 9, title: "Recursive Evaluation", outDate: "Sept. 27", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Evaluation", "Recursion", "Racket"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1INaMWj1ApHfS9ZuA6VVHdMtsBWiR7vaj/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Lists", "Recursion", "Racket", "Analysis"]
+	},
+	{
+		number: 9, title: "Recursive Evaluation", outDate: "Sept. 26", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fdfc622f-8733-406d-bc1f-af1000ecc325", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1a91a7hAYRdEWlPrgM9phjwd-PlqTd3sE/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" }
+		],
+		tags: ["Evaluation", "Recursion", "Racket"]
 	},
 ]
 
