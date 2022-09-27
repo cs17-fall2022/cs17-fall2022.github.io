@@ -317,13 +317,13 @@ const classes = [
 		tags: ["Lists", "Recursion", "Racket", "Analysis"]
 	},
 	{
-		number: 9, title: "Recursive Evaluation", outDate: "Sept. 26", active: true,
+		number: 9, title: "Intro to Analysis", outDate: "Sept. 26", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1j3-MBz_icvzY1AbnDBotrFS0aTX_EBRC/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fdfc622f-8733-406d-bc1f-af1000ecc325", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1a91a7hAYRdEWlPrgM9phjwd-PlqTd3sE/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" }
 		],
-		tags: ["Evaluation", "Recursion", "Racket"]
+		tags: ["Recursion", "Racket", "Analysis"]
 	},
 ]
 
