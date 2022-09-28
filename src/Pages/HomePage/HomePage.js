@@ -124,7 +124,7 @@ class HomePage extends React.Component {
 							<br/>
 							- Please sign up for a Bignum Design Check time by Wednesday if you have received your Bignum TA.
 							<br/>
-							- Bignum Gearup times are on Ed and on our calendar. 
+							- Bignum Gearup times are on Ed and on our calendar. Good luck with Bignum!!
 							</p>
 						</div>
 					</div>
