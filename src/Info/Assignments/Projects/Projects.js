@@ -7,8 +7,8 @@ const projects = [
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1xbIsQ9hgsxafSpSU2FCpTm9vspvPiyOI/view?usp=sharing", label: "Handout" },
 			{ icon: <FaCode />, link: "https://drive.google.com/file/d/1mDnpaWWCTYRqLQgHjGLR59_ekBgZ0U5i/view?usp=sharing", label: "Source Code" },
-			// { icon: <FaFilePowerpoint />, link: "", label: "Gearup Slides" },
-			// { icon: <FaYoutube />, link: "", label: "Gearup Recording" }
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1bVJCOUqoPwDbjJMAXPH4aIAEIcDMVEkCLf53lDgVOT4/edit?usp=sharing", label: "Gearup Slides" },
+			{ icon: <FaYoutube />, link: "https://drive.google.com/file/d/1q9m_6CxkCNdULeTjsDO9MocmGJhm059w/view?usp=sharing", label: "Gearup Recording" }
 		]
 	},
 	{
