@@ -20,9 +20,9 @@ const homeworks = [
 		]
 	},
 	{
-		number: 4, title: "More Recursion & Higher Order Procedures", dueDate: "Oct. 6, 11 p.m. EDT", active: false,
+		number: 4, title: "More Recursion & Higher Order Procedures", dueDate: "Oct. 6, 11 p.m. EDT", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1X2wqtkOCztQkexw1Piepe1A_jtw60P_U/view?usp=sharing", label: "Handout" },
 		]
 	},
 	{
