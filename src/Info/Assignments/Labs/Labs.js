@@ -24,10 +24,10 @@ const labs = [
 		]
 	},
 	{
-		number: 4, title: "Natural Number Recursion", dueDate: "Oct. 2-4", active: false,
+		number: 4, title: "Natural Number Recursion", dueDate: "Oct. 2-4", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mMNHmZ5P8Y4v1s5FmTbF8vOZ_00Z44Nn/view?usp=sharing", label: "Handout" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Qhgdux3jjVvY_AUloBOMkHUwv0weCXU56r7orZuYwMU/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
