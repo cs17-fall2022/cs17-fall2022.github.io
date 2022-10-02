@@ -8,15 +8,15 @@ const workshops = [
 		]
 	},
 	{
-		number: 2, title: "Expressions, Types, and Procedures", outDate: "Sept. 19-20", active: false,
+		number: 2, title: "Expressions, Types, and Procedures", outDate: "Sept. 19-20", active: true,
 		links: [
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1WoyKjD8VFrURMQMkJ0RyqjaAsLKX7IDK/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		]
 	},
 	{
-		number: 3, title: "Boolean Logic, Lists, and Recursion", outDate: "Sept. 26-27", active: false,
+		number: 3, title: "Boolean Logic, Lists, and Recursion", outDate: "Sept. 26-27", active: true,
 		links: [
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1FVCManBkIrxKXr1aGerOFnJVB1JcA_Y8JN1RVRoE8B4/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
