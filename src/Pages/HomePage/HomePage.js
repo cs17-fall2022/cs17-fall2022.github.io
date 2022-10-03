@@ -118,13 +118,7 @@ class HomePage extends React.Component {
 							<br/>
 							- Everyone must wear a mask during class.
 							<br/>
-							- Labs and TA Hours will all be virtual until further notice.
-							<br/>
-							- Project 1: Bignum has now been released! If you don't have a partner, please email the HTAs. 
-							<br/>
-							- Please sign up for a Bignum Design Check time by Wednesday if you have received your Bignum TA.
-							<br/>
-							- Bignum Gearup times are on Ed and on our calendar. Good luck with Bignum!!
+							- Project 1: Bignum has now been released! Good luck everyone!
 							</p>
 						</div>
 					</div>

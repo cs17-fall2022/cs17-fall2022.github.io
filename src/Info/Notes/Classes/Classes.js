@@ -217,15 +217,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Racket", "Analysis", "Lambda"]
 	// },
-	// {
-	// 	number: 12, title: "Reverse and More Analysis", outDate: "Oct. 4", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Recursion", "Racket", "Analysis"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -308,9 +299,9 @@ const classes = [
 		tags: ["Recursion", "Racket", "Analysis"]
 	},
 	{
-		number: 10, title: "Two Argument Recursion", outDate: "Sept. 28", active: true,
+		number: 10, title: "Two Argument Recursion and Analysis", outDate: "Sept. 28", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1vga9oBXeRDrmGT5y8HxAFA9gz_lhVvYj/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23e80812-1115-4cfc-b802-af1000ecc34b", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/13NscPigBi-m-2WoyEc0P4lM5ijAtCY8C/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
@@ -319,11 +310,20 @@ const classes = [
 	{
 		number: 11, title: "Reverse and Higher Order Procedures", outDate: "Sept. 30", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1eXWTgJfVPV3nX-iTqlxLwRDLDYZuvqDd/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09df814d-4c63-4afd-b484-af1000ecc384", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/155uS5GqldTFgcYOdzmTJ2-t5Nd964we5/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Recursion", "HOPs", "Racket"]
+	},
+	{
+		number: 12, title: "Analysis: Plug-n-Chug", outDate: "Oct. 4", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de96ae25-0ed2-429c-80a5-af1000ecc3ab", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1iQ-iVKrGzc5-TAze-t0ge1akwyVPVLsB/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Recursion", "Analysis"]
 	},
 ]
 
