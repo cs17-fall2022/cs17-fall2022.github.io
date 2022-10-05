@@ -208,15 +208,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Racket", "Lambda", "HOPs", "Analysis"]
 	// },
-	// {
-	// 	number: 13, title: "More Analysis and Intro to Lambda", outDate: "Oct. 6", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Analysis", "Lambda"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1iQ-iVKrGzc5-TAze-t0ge1akwyVPVLsB/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Recursion", "Analysis"]
+	},
+	{
+		number: 13, title: "More Analysis and Intro to Lambda", outDate: "Oct. 5", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5044c36d-1e0e-4192-93c0-af1000ecc3d9", label: "Recording" },
+			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+		],
+		tags: ["Racket", "Analysis", "Lambda"]
 	},
 ]
 
