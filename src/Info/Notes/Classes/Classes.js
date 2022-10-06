@@ -321,7 +321,7 @@ const classes = [
 		links: [
 			// { icon: <FaFileAlt />, link: "", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5044c36d-1e0e-4192-93c0-af1000ecc3d9", label: "Recording" },
-			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1XRYD_Ql-jXPJz68-eN8ONFmILwHw_DaU/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket", "Analysis", "Lambda"]
 	},
