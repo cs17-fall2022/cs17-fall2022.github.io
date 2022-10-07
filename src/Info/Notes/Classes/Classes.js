@@ -199,15 +199,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Racket", "ReasonML"]
 	// },
-	// {
-	// 	number: 14, title: "HOPs and Analysis", outDate: "Oct. 8", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "Lambda", "HOPs", "Analysis"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1XRYD_Ql-jXPJz68-eN8ONFmILwHw_DaU/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket", "Analysis", "Lambda"]
+	},
+	{
+		number: 14, title: "Applying Lambda", outDate: "Oct. 7", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6677649-d6fc-49e1-b46d-af1000ecc401", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/16jnRyHlH0L6EMz9k_XEZDXGTvBSKbCSV/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket", "Lambda"]
 	},
 ]
 
