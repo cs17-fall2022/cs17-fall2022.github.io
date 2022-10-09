@@ -31,10 +31,10 @@ const labs = [
 		]
 	},
 	{
-		number: 5, title: "Search", dueDate: "Oct. 9-11", active: false,
+		number: 5, title: "Search", dueDate: "Oct. 9-11", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/10hff9rQVvD2AdnxbWSJJtHaa5AV_YrrB/view?usp=sharing", label: "Handout" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1ojVxSXQCCbGR6QT8TnBbV4LXFOVnXbK0Lr4rucSKkEk/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
