@@ -29,6 +29,7 @@ const homeworks = [
 		number: 5, title: "Higher Order Procedures and Subsets", dueDate: "Oct. 14, 11 p.m. EDT", active: true,
 		links: [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1LgOUqkBGqD5hnJ5-DfQypHDUpkt1HW7l/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/file/d/10c4AOO0Jd-5NotYKSQSKi_YwqAej1duP/view?usp=sharing", label: "Source Code" },
 		]
 	},
 	{
