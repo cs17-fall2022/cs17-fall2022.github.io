@@ -20,15 +20,15 @@ const workshops = [
 		]
 	},
 	{
-		number: 4, title: "Recurrence Relations", outDate: "Oct. 3-4", active: false,
+		number: 4, title: "Recurrence Relations", outDate: "Oct. 3-4", active: true,
 		links: [
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1XMx0dC2bmgMBqGV5sjnnMN8FwkFR5Bd88OB-NF5acCo/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
-		number: 5, title: "Analysis, Lambda Expressions, and HOPs", outDate: "Oct. 11", active: false,
+		number: 5, title: "Analysis, Lambda Expressions, and HOPs", outDate: "Oct. 11", active: true,
 		links: [
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1o8vaFoPU2H-vVBrCn4AIeaDJYNl5NqL_YonrnsPiHLY/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
