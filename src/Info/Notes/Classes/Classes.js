@@ -190,15 +190,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Recursion", "ReasonML"]
 	// },
-	// {
-	// 	number: 15, title: "Let and Intro to Reason", outDate: "Oct. 13", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		// { icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Racket", "ReasonML"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -301,7 +292,7 @@ const classes = [
 	{
 		number: 12, title: "Analysis: Plug-n-Chug", outDate: "Oct. 4", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1igJyZNmlxVRlJpxoFfbISNCJl6tp8ZDg/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de96ae25-0ed2-429c-80a5-af1000ecc3ab", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1iQ-iVKrGzc5-TAze-t0ge1akwyVPVLsB/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/16jnRyHlH0L6EMz9k_XEZDXGTvBSKbCSV/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket", "Lambda"]
+	},
+	{
+		number: 15, title: "Let and Combinatorics", outDate: "Oct. 12", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a09d5fbe-5c9a-4160-830f-af1000ecc452", label: "Recording" },
+			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/15zK1E4NLeGUTOYrGtXh75NbL0UBX4SJf/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Racket"]
 	},
 ]
 
