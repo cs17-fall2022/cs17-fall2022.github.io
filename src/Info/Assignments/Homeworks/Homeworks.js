@@ -33,10 +33,10 @@ const homeworks = [
 		]
 	},
 	{
-		number: 6, title: "K-Subsets and Matrices", dueDate: "Oct. 20, 11 p.m. EDT", active: false,
+		number: 6, title: "K-Subsets and Matrices", dueDate: "Oct. 20, 11 p.m. EDT", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/19rU2qHeEuet4qRCL3vgL5Dw59H-7zC1-/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1Q1fWe7ad2WkGDutKsiWarnI50_UPNQaI?usp=sharing", label: "Source Code" },
 		]
 	},
 	{

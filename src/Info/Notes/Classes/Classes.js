@@ -181,15 +181,6 @@ const classes = [
 	// 	],
 	// 	tags: ["ReasonML", "Analysis"]
 	// },
-	// {
-	// 	number: 16, title: "Combinatorics and ReasonML", outDate: "Oct. 15", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Recursion", "ReasonML"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/15zK1E4NLeGUTOYrGtXh75NbL0UBX4SJf/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Racket"]
+	},
+	{
+		number: 16, title: "Let and ReasonML", outDate: "Oct. 16", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08bc98f1-8e45-499d-9c3b-af1000ecc476", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Lnn40qfDkMzHX0xI74n8bxG43sM1paYi/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Recursion", "ReasonML"]
 	},
 ]
 
