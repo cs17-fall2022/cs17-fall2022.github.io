@@ -40,8 +40,8 @@ const labs = [
 	{
 		number: 6, title: "Reason", dueDate: "Oct. 16-18", active: false,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1eHZ-pbu_3fZrcXSCWChOoxBofsCrYjaR/view?usp=sharing", label: "Handout" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1pxbfSGOcdiV5KobV_y4XmHPCwSeYAcCRN7LLe2Pxh8w/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
