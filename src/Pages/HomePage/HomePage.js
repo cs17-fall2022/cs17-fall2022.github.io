@@ -118,7 +118,8 @@ class HomePage extends React.Component {
 							<br/>
 							- Everyone must wear a mask during class.
 							<br/>
-							- Project 1: Bignum has now been released! Good luck everyone!
+							- We are beginning to move to ReasonML as our programming language. Please
+							come to TA Hours or post on Ed if you have ReasonML trouble.
 							</p>
 						</div>
 					</div>

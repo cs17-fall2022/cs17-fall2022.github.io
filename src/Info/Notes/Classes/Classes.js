@@ -172,15 +172,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Design Recipe", "Analysis"]
 	// },
-	// {
-	// 	number: 17, title: "Types, Pattern Matching, and More Analysis", outDate: "Oct. 18", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML", "Analysis"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -317,13 +308,22 @@ const classes = [
 		tags: ["Racket"]
 	},
 	{
-		number: 16, title: "Let and ReasonML", outDate: "Oct. 16", active: true,
+		number: 16, title: "Let and ReasonML", outDate: "Oct. 14", active: true,
 		links: [
 			// { icon: <FaFileAlt />, link: "", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08bc98f1-8e45-499d-9c3b-af1000ecc476", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Lnn40qfDkMzHX0xI74n8bxG43sM1paYi/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Recursion", "ReasonML"]
+	},
+	{
+		number: 17, title: "Types, Pattern Matching, and Big-O", outDate: "Oct. 17", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8316926-cb1a-4679-b4a4-af1000ecc49c", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1NbrvVcd7Rr3PbkFe2D-bUhzJ-7IwEPK7/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML", "Analysis"]
 	},
 ]
 
