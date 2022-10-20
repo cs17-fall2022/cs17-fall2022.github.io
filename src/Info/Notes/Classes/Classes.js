@@ -163,15 +163,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Analysis", "ReasonML"]
 	// },
-	// {
-	// 	number: 18, title: "Generic Types, Set Equality, and Even More Analysis", outDate: "Oct. 20", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Design Recipe", "Analysis"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1NbrvVcd7Rr3PbkFe2D-bUhzJ-7IwEPK7/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["ReasonML", "Analysis"]
+	},
+	{
+		number: 18, title: "More ReasonML and Closures", outDate: "Oct. 19", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a58c0ac1-44c0-4686-a21d-af1000ecc4c8", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Oc9bx2zp_kQvlZJ-XKszCmKCKjLsOWtR/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Design Recipe", "Analysis"]
 	},
 ]
 
