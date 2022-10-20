@@ -323,7 +323,7 @@ const classes = [
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a58c0ac1-44c0-4686-a21d-af1000ecc4c8", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Oc9bx2zp_kQvlZJ-XKszCmKCKjLsOWtR/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
-		tags: ["Design Recipe", "Analysis"]
+		tags: ["ReasonML"]
 	},
 ]
 
