@@ -154,15 +154,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Analysis", "Big-O"]
 	// },
-	// {
-	// 	number: 19, title: "Recurrences and ReasonML", outDate: "Oct. 22", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Analysis", "ReasonML"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -322,6 +313,15 @@ const classes = [
 			// { icon: <FaFileAlt />, link: "", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a58c0ac1-44c0-4686-a21d-af1000ecc4c8", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Oc9bx2zp_kQvlZJ-XKszCmKCKjLsOWtR/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML"]
+	},
+	{
+		number: 19, title: "Closures and Questions", outDate: "Oct. 21", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Home.aspx", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/11hjP09TQbyJCnyy7druwutH_L9g47t40/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["ReasonML"]
 	},
