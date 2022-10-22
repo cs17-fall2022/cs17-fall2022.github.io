@@ -265,7 +265,7 @@ const classes = [
 	{
 		number: 13, title: "More Analysis and Intro to Lambda", outDate: "Oct. 5", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1JZzELa5jjBvfQIeT0tn5u_X4nUdXPHXl/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5044c36d-1e0e-4192-93c0-af1000ecc3d9", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1XRYD_Ql-jXPJz68-eN8ONFmILwHw_DaU/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
@@ -292,7 +292,7 @@ const classes = [
 	{
 		number: 16, title: "Let and ReasonML", outDate: "Oct. 14", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1AVOn1-6nh2ViPp7KiGrZ2Uof-wp_15lv/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=08bc98f1-8e45-499d-9c3b-af1000ecc476", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Lnn40qfDkMzHX0xI74n8bxG43sM1paYi/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
