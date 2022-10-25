@@ -145,15 +145,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Analysis", "Big-O"]
 	// },
-	// {
-	// 	number: 20, title: "Big-O", outDate: "Oct. 25", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Analysis", "Big-O"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/11hjP09TQbyJCnyy7druwutH_L9g47t40/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["ReasonML"]
+	},
+	{
+		number: 20, title: "Big-O & Mutual Recursion", outDate: "Oct. 24", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=163909df-add1-47ff-9ef6-af1000ecc549", label: "Recording" },
+			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+		],
+		tags: ["Analysis", "Big-O"]
 	},
 ]
 
