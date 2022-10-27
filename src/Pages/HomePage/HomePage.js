@@ -118,8 +118,8 @@ class HomePage extends React.Component {
 							<br/>
 							- Everyone must wear a mask during class.
 							<br/>
-							- We are beginning to move to ReasonML as our programming language. Please
-							come to TA Hours or post on Ed if you have ReasonML trouble.
+							- Rackette has just been released! If you did not fill out the form or 
+							receive a partner, please email the HTAs at cs0170headtas@lists.brown.edu
 							</p>
 						</div>
 					</div>
