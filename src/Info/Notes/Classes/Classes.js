@@ -136,15 +136,6 @@ const classes = [
 	// 	],
 	// 	tags: ["ReasonML"]
 	// },
-	// {
-	// 	number: 21, title: "Big-Theta", outDate: "Oct. 27", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Analysis", "Big-O"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -321,7 +312,16 @@ const classes = [
 		links: [
 			// { icon: <FaFileAlt />, link: "", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=163909df-add1-47ff-9ef6-af1000ecc549", label: "Recording" },
-			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1yuVu7dohaddZnbP0pLKPknIiNj8aLhyc/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Analysis", "Big-O"]
+	},
+	{
+		number: 21, title: "ADTs", outDate: "Oct. 26", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a1fe878-02c6-41d2-820f-af1000ecc577", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1J7NnYVBXkqgds9WbDWYfH_Hb_I_pKwHo/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Analysis", "Big-O"]
 	},
