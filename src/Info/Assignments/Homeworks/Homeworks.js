@@ -47,21 +47,21 @@ const homeworks = [
 		]
 	},
 	{
-		number: 8, title: "ADTs", dueDate: "Nov. 2, 11 p.m. EDT", active: false,
+		number: 8, title: "Practice & ADTs", dueDate: "Nov. 2, 11 p.m. EDT", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/11EBo24nCx7aDXO-cwzgtzvBKF8Vxwzdr/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/14sCEWaF4V-YynkpNnMv2N_h8uQytJ76H?usp=sharing", label: "Source Code" },
+		]
+	},
+	{
+		number: 9, title: "More ADTs", dueDate: "Nov. 16, 11 p.m. EST", active: false,
 		links: [
 			{ icon: <FaFileAlt />, link: "", label: "Handout" },
 			{ icon: <FaCode />, link: "", label: "Source Code" },
 		]
 	},
 	{
-		number: 9, title: "Trees", dueDate: "Nov. 16, 11 p.m. EST", active: false,
-		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
-		]
-	},
-	{
-		number: 10, title: "Coming Soon!", dueDate: "Nov. 22, 11 p.m. EST", active: false,
+		number: 10, title: "Trees", dueDate: "Nov. 22, 11 p.m. EST", active: false,
 		links: [
 			{ icon: <FaFileAlt />, link: "", label: "Handout" },
 			{ icon: <FaCode />, link: "", label: "Source Code" },
