@@ -301,7 +301,7 @@ const classes = [
 	{
 		number: 20, title: "Big-O & Mutual Recursion", outDate: "Oct. 24", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1aiI-sbAoadugS9nkECiGuJ2cb0j5nvJc/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=163909df-add1-47ff-9ef6-af1000ecc549", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1yuVu7dohaddZnbP0pLKPknIiNj8aLhyc/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
