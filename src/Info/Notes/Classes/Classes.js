@@ -127,15 +127,6 @@ const classes = [
 	// 	],
 	// 	tags: ["ReasonML", "Evaluation"]
 	// },
-	// {
-	// 	number: 22, title: "Rackette Overview", outDate: "Oct. 29 🎃", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1J7NnYVBXkqgds9WbDWYfH_Hb_I_pKwHo/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Analysis", "Big-O"]
+	},
+	{
+		number: 22, title: "Rackette Overview", outDate: "Oct. 28", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b4c416e-0c09-4e6c-8730-af1000ecc5a9", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1USxsuJ1H4oUxxVt_mC1YnQRaskYPmg0N/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML", "Rackette", "Analysis"]
 	},
 ]
 
