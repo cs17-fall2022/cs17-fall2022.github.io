@@ -283,7 +283,7 @@ const classes = [
 	{
 		number: 18, title: "More ReasonML and Closures", outDate: "Oct. 19", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1mXmBOQQeksXnsqdO7xtuBMVhxl6Xxg53/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a58c0ac1-44c0-4686-a21d-af1000ecc4c8", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Oc9bx2zp_kQvlZJ-XKszCmKCKjLsOWtR/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
