@@ -247,7 +247,7 @@ const classes = [
 	{
 		number: 14, title: "Applying Lambda", outDate: "Oct. 7", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1pXgRzrTmcQLtPc_Aqrw7PeGLFqNQcmMU/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6677649-d6fc-49e1-b46d-af1000ecc401", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/16jnRyHlH0L6EMz9k_XEZDXGTvBSKbCSV/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
