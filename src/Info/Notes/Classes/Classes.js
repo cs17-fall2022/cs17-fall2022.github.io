@@ -319,7 +319,7 @@ const classes = [
 	{
 		number: 22, title: "Rackette Overview", outDate: "Oct. 28", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1PPEeQmAcbhZVYaeNA-VPOuOqE5zBc88i/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b4c416e-0c09-4e6c-8730-af1000ecc5a9", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1USxsuJ1H4oUxxVt_mC1YnQRaskYPmg0N/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
