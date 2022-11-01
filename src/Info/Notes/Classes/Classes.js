@@ -118,15 +118,6 @@ const classes = [
 	// 	],
 	// 	tags: ["ReasonML"]
 	// },
-	// {
-	// 	number: 23, title: "Rackette and Misc. ReasonML", outDate: "Nov. 1", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML", "Evaluation"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -290,9 +281,9 @@ const classes = [
 		tags: ["ReasonML"]
 	},
 	{
-		number: 19, title: "Closures and Questions", outDate: "Oct. 21", active: true,
+		number: 19, title: "Local Environments and Lambda", outDate: "Oct. 21", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1TB7GuMVx1LFEhXO-UuXNDRFSQbeW_T0_/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Home.aspx", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/11hjP09TQbyJCnyy7druwutH_L9g47t40/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1USxsuJ1H4oUxxVt_mC1YnQRaskYPmg0N/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["ReasonML", "Rackette", "Analysis"]
+	},
+	{
+		number: 23, title: "Rackette and Misc. ReasonML", outDate: "Oct. 31", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e1a1279c-3ed5-49d3-8c53-af1000ecc5db", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1KB1l4K6dBoyXRahl0Yo400sJPaj0tNBQ/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML", "Evaluation"]
 	},
 ]
 
