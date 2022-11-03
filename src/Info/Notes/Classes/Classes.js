@@ -109,15 +109,6 @@ const classes = [
 	// 	],
 	// 	tags: ["ReasonML", "Trees"]
 	// },
-	// {
-	// 	number: 24, title: "ReasonML Syntax and checkError", outDate: "Nov. 3", active: true,
-	// 	links: [
-	// 		// { icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1KB1l4K6dBoyXRahl0Yo400sJPaj0tNBQ/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["ReasonML", "Evaluation"]
+	},
+	{
+		number: 24, title: "ReasonML Miscellany and Testing Modules", outDate: "Nov. 2", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0709775-6cf3-4019-9ac6-af1000ecc608", label: "Recording" },
+			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+		],
+		tags: ["ReasonML"]
 	},
 ]
 
