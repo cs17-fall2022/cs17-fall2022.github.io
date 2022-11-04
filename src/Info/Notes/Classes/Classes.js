@@ -100,15 +100,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Evaluation", "Lambda", "Trees", "Muppets"]
 	// },
-	// {
-	// 	number: 25, title: "ADTs and Trees", outDate: "Nov. 5", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["ReasonML", "Trees"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -321,9 +312,18 @@ const classes = [
 		links: [
 			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0709775-6cf3-4019-9ac6-af1000ecc608", label: "Recording" },
-			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1amGlYvUdDkqkbJYrhKDutQfAFkBc34Qw/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["ReasonML"]
+	},
+	{
+		number: 25, title: "VSCode Tips, Polishing, & Trees", outDate: "Nov. 4", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7bf7468-f51d-48a5-b69f-af1000ecc62e", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1HIkDyPwHZt56AiVndq9hr5GOT8URcZfM/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["ReasonML", "Trees"]
 	},
 ]
 
