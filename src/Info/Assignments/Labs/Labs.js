@@ -61,11 +61,11 @@ const labs = [
 		]
 	},
 	{
-		number: 9, title: "ADTs", dueDate: "Nov. 6-8", active: false,
+		number: 9, title: "ADTs", dueDate: "Nov. 6-8", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1Wce8ERh3YIqxaG6T0OHofPEDoe-reoQw/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/16l8rSdKltlWppq0gEtmqzDCrBX-RsuSw?usp=sharing", label: "Source Code" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1y-uwJ8xhRvInkyYMgNTcilWf23ve8E4yjBptwYye9oY/edit?usp=sharing", label: "Slides" },
 		]
 	},
 	{
