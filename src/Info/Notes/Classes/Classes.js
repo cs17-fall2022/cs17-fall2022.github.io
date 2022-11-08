@@ -91,15 +91,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Sorting", "Analysis"]
 	// },
-	// {
-	// 	number: 26, title: "Muppets Bloopers, More Trees, and Closures", outDate: "Nov. 8", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Evaluation", "Lambda", "Trees", "Muppets"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1HIkDyPwHZt56AiVndq9hr5GOT8URcZfM/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["ReasonML", "Trees"]
+	},
+	{
+		number: 26, title: "More Trees and Environments Review", outDate: "Nov. 7", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c3b1fd73-5b82-43fa-8949-af1000ecc652", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kIeH6K6ricKaUaWeI5qvqWQh-sk5rEsD/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Evaluation", "Lambda", "Trees", "Muppets"]
 	},
 ]
 
