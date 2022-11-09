@@ -292,14 +292,14 @@ const classes = [
 	{
 		number: 23, title: "Rackette and Misc. ReasonML", outDate: "Oct. 31", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1KQxlQtzieMGVD2aPNVLcG_u8o2TkQG7j/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e1a1279c-3ed5-49d3-8c53-af1000ecc5db", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1KB1l4K6dBoyXRahl0Yo400sJPaj0tNBQ/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["ReasonML", "Evaluation"]
 	},
 	{
-		number: 24, title: "ReasonML Miscellany and Testing Modules", outDate: "Nov. 2", active: true,
+		number: 24, title: "Unification and Testing Modules", outDate: "Nov. 2", active: true,
 		links: [
 			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e0709775-6cf3-4019-9ac6-af1000ecc608", label: "Recording" },
