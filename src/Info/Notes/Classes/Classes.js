@@ -82,15 +82,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Game"]
 	// },
-	// {
-	// 	number: 27, title: "Let and Merge Sort", outDate: "Nov. 10", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		// { icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Sorting", "Analysis"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -296,7 +287,7 @@ const classes = [
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e1a1279c-3ed5-49d3-8c53-af1000ecc5db", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1KB1l4K6dBoyXRahl0Yo400sJPaj0tNBQ/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
-		tags: ["ReasonML", "Evaluation"]
+		tags: ["ReasonML", "Rackette", "Evaluation"]
 	},
 	{
 		number: 24, title: "Unification and Testing Modules", outDate: "Nov. 2", active: true,
@@ -323,7 +314,16 @@ const classes = [
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c3b1fd73-5b82-43fa-8949-af1000ecc652", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kIeH6K6ricKaUaWeI5qvqWQh-sk5rEsD/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
-		tags: ["Evaluation", "Lambda", "Trees", "Muppets"]
+		tags: ["Evaluation", "Lambda", "Trees"]
+	},
+	{
+		number: 27, title: "Evaluation and Sorting", outDate: "Nov. 10", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1GWNsvpl37mF7GAE-LeSYexZYnw6gO2xO/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5195009-4c92-4743-aa63-af1000ecc67c", label: "Recording" },
+			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1QctTG0XD0IIXb9KHEmKCi2mVt3fA1deO/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Sorting", "Analysis", "Evaluation"]
 	},
 ]
 
