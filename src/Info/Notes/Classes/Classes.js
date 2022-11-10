@@ -308,9 +308,9 @@ const classes = [
 		tags: ["ReasonML", "Trees"]
 	},
 	{
-		number: 26, title: "More Trees and Environments Review", outDate: "Nov. 7", active: true,
+		number: 26, title: "Trees and Closures Review", outDate: "Nov. 7", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/146aOPtp5VquDyZ0Xp5JgSM6S-kiGWpvG/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c3b1fd73-5b82-43fa-8949-af1000ecc652", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kIeH6K6ricKaUaWeI5qvqWQh-sk5rEsD/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
