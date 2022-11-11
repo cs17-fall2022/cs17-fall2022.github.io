@@ -54,10 +54,10 @@ const homeworks = [
 		]
 	},
 	{
-		number: 9, title: "More ADTs", dueDate: "Nov. 16, 11 p.m. EST", active: false,
+		number: 9, title: "Trees, Trees, ...and Lists", dueDate: "Nov. 16, 11 p.m. EST", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1LfOEMJF2qaal79R4tJziUhyrvGgeynT2/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/1LOLf3q1taXQQX_wWREZ-ACux162UrV3O?usp=sharing", label: "Source Code" },
 		]
 	},
 	{
