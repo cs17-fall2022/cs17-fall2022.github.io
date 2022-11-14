@@ -64,15 +64,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Game"]
 	// },
-	// {
-	// 	number: 29, title: "Game - MiniMax", outDate: "Nov. 15", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Game"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -322,6 +313,15 @@ const classes = [
 			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1CQcAN5aruxntEFiq774oTAGA6QYrc0qK/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=677cf5cd-cb32-4369-a2f6-af1000ecc6a1", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1SM2PyuRIT0RwL4eE00jNM-jKDIivH7xn/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Game"]
+	},
+	{
+		number: 29, title: "Game 2", outDate: "Nov. 14", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36fd200f-b62b-4740-b19f-af1000ecc6e1", label: "Recording" },
+			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
 		],
 		tags: ["Game"]
 	},
