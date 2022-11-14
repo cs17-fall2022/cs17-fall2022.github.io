@@ -73,15 +73,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Game"]
 	// },
-	// {
-	// 	number: 28, title: "Intro to Game", outDate: "Nov. 12", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Game"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1QctTG0XD0IIXb9KHEmKCi2mVt3fA1deO/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Sorting", "Analysis", "Evaluation"]
+	},
+	{
+		number: 28, title: "Intro to Game", outDate: "Nov. 11", active: true,
+		links: [
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1CQcAN5aruxntEFiq774oTAGA6QYrc0qK/view?usp=sharing", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=677cf5cd-cb32-4369-a2f6-af1000ecc6a1", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1SM2PyuRIT0RwL4eE00jNM-jKDIivH7xn/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Game"]
 	},
 ]
 
