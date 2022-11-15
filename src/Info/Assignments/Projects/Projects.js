@@ -22,13 +22,13 @@ const projects = [
 		]
 	},
 	{
-		number: 3, title: "Game", dueDate: "Dec. 5, 11 p.m. EST", active: false,
+		number: 3, title: "Game", dueDate: "Dec. 5, 11 p.m. EST", active: true,
 		notes: "",
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Gearup Slides" },
-			{ icon: <FaYoutube />, link: "", label: "Gearup Recording" }
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1KpsHF1CtFIpSHhPGzAkDvF6s7UEs9ACj/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/11_P7pghCiPeUp98fnA_GAid1jG6VGFEq?usp=sharing", label: "Source Code" },
+			// { icon: <FaFilePowerpoint />, link: "", label: "Gearup Slides" },
+			// { icon: <FaYoutube />, link: "", label: "Gearup Recording" }
 		]
 	}
 ]
