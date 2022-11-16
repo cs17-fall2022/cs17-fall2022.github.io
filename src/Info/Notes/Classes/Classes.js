@@ -55,15 +55,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Analysis"]
 	// },
-	// {
-	// 	number: 30, title: "Game - ArgMax", outDate: "Nov. 17", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		// { icon: <FaFilePowerpoint/>, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Game"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -317,11 +308,20 @@ const classes = [
 		tags: ["Game"]
 	},
 	{
-		number: 29, title: "Game 2", outDate: "Nov. 14", active: true,
+		number: 29, title: "Game - Minimax", outDate: "Nov. 14", active: true,
 		links: [
 			// { icon: <FaFileAlt />, link: "", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36fd200f-b62b-4740-b19f-af1000ecc6e1", label: "Recording" },
-			// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1ksHZq_Q4EQdib41eg7peMq_NmlnJ0Mjs/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Game"]
+	},
+	{
+		number: 30, title: "Game - Game Trees / Virtual Trees", outDate: "Nov. 16", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a705422-7a4c-4743-854a-af1000ecc6ff", label: "Recording" },
+			{ icon: <FaFilePowerpoint/>, link: "https://docs.google.com/presentation/d/1sL9qXL5sgokFoDUo844N-q7mkZMzjZH-/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Game"]
 	},
