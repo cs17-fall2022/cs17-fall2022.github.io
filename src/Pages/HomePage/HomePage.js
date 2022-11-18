@@ -117,9 +117,6 @@ class HomePage extends React.Component {
 							<p><mark>Announcements: </mark>
 							<br/>
 							- Everyone must wear a mask during class.
-							<br/>
-							- Rackette has just been released! If you did not fill out the form or 
-							receive a partner, please email the HTAs at cs0170headtas@lists.brown.edu
 							</p>
 						</div>
 					</div>

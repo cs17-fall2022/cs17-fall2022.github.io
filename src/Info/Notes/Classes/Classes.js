@@ -310,7 +310,7 @@ const classes = [
 	{
 		number: 29, title: "Game - Minimax", outDate: "Nov. 14", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1crBDpJG7TbR_Ay4PbaesxnMSycqwG65-/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36fd200f-b62b-4740-b19f-af1000ecc6e1", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1ksHZq_Q4EQdib41eg7peMq_NmlnJ0Mjs/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
