@@ -28,33 +28,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Lists"]
 	// },
-	// {
-	// 	number: 33, title: "All You Need Is Lambda", outDate: "Nov. 24", active: true,
-	// 	links: [
-	// 		// { icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Computational Limits"]
-	// },
-	// {
-	// 	number: 32, title: "Diagonals (in slides), Limits of Computation", outDate: "Nov. 22", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt />, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Game", "Computational Limits"]
-	// },
-	// {
-	// 	number: 31, title: "Analysis", outDate: "Nov. 19", active: true,
-	// 	links: [
-	// 		// { icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Analysis"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -325,6 +298,33 @@ const classes = [
 		],
 		tags: ["Game"]
 	},
+	{
+		number: 31, title: "Analysis Redux", outDate: "Nov. 18", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa267fe3-2e50-42d6-afcf-af1000ecc71f", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+		],
+		tags: ["Analysis"]
+	},
+	{
+		number: 32, title: "Limits of Sorting & Computation", outDate: "Nov. 21", active: true,
+		links: [
+			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02370343-0ef5-4dae-92c0-af1000ecc741", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1p4jVSDosm97rws7Dl9n2xKQeyNwGRT_4/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Computational Limits"]
+	},
+	// {
+	// 	number: 33, title: "All You Need Is Lambda", outDate: "Nov. 23", active: true,
+	// 	links: [
+	// 		// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
+	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+	// 	],
+	// 	tags: ["Computational Limits"]
+	// },
 ]
 
 export default classes;
