@@ -303,7 +303,7 @@ const classes = [
 		links: [
 			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa267fe3-2e50-42d6-afcf-af1000ecc71f", label: "Recording" },
-			{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1kL9PHzunNfcFkNebLVUGomN6blSvwmjP/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Analysis"]
 	},
@@ -316,15 +316,15 @@ const classes = [
 		],
 		tags: ["Computational Limits"]
 	},
-	// {
-	// 	number: 33, title: "All You Need Is Lambda", outDate: "Nov. 23", active: true,
-	// 	links: [
-	// 		// { icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Computational Limits"]
-	// },
+	{
+		number: 33, title: "All You Need Is Lambda", outDate: "Nov. 23", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=880eab6e-c4a4-4201-898d-af1000ecc76c", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1PvfU8-LZa4yeLU5nd0gkYB15MSVWK7lK/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: ["Computational Limits"]
+	},
 ]
 
 export default classes;
