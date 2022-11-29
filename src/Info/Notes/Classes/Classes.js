@@ -317,7 +317,7 @@ const classes = [
 		tags: ["Computational Limits"]
 	},
 	{
-		number: 34, title: "Miscellany", outDate: "Nov. 29", active: true,
+		number: 34, title: "Miscellany", outDate: "Nov. 28", active: true,
 		links: [
 			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=259a581c-84f6-4958-b570-af1000ecc7b1", label: "Recording" },
