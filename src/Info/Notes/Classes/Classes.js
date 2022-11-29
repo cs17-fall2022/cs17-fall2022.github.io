@@ -19,15 +19,6 @@ const classes = [
 	// 	],
 	// 	tags: []
 	// },
-	// {
-	// 	number: 34, title: "Miscellany", outDate: "Nov. 29", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: ["Lists"]
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -324,6 +315,15 @@ const classes = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1PvfU8-LZa4yeLU5nd0gkYB15MSVWK7lK/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: ["Computational Limits"]
+	},
+	{
+		number: 34, title: "Miscellany", outDate: "Nov. 29", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=259a581c-84f6-4958-b570-af1000ecc7b1", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Vl7q0nc3xe7gY7z6rFbxr-4g7vW25lUK/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: []
 	},
 ]
 
