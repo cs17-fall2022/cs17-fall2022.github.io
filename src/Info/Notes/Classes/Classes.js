@@ -10,15 +10,6 @@ const classes = [
 	// 	],
 	// 	tags: ["Exam Review"]
 	// },
-	// {
-	// 	number: 35, title: "ReProcessing", outDate: "Dec. 1", active: true,
-	// 	links: [
-	// 		{ icon: <FaFileAlt/>, link: "", label: "Notes" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	],
-	// 	tags: []
-	// },
 	{
 		number: 1, title: "Welcome", outDate: "Sept. 7", active: true,
 		links: [
@@ -301,7 +292,7 @@ const classes = [
 	{
 		number: 32, title: "Limits of Sorting & Computation", outDate: "Nov. 21", active: true,
 		links: [
-			// { icon: <FaFileAlt />, link: "", label: "Notes" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/15l5NWxjGucdx0hhEvhIQ2WgXwDJDs9l7/view?usp=sharing", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02370343-0ef5-4dae-92c0-af1000ecc741", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1p4jVSDosm97rws7Dl9n2xKQeyNwGRT_4/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
@@ -322,6 +313,15 @@ const classes = [
 			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=259a581c-84f6-4958-b570-af1000ecc7b1", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1Vl7q0nc3xe7gY7z6rFbxr-4g7vW25lUK/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
+		tags: []
+	},
+	{
+		number: 35, title: "Stacks & Divide and Conquer", outDate: "Nov. 30", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e62b3f2-5d58-4efa-9e8a-af1000ecc7d3", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1gjgiOUSCS8TyHYh7j-nczImTieZLW4no/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
 		tags: []
 	},
