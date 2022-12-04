@@ -49,25 +49,25 @@ const workshops = [
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1wFzBufgKEU3DQdWf2TJRW2uB9ql1E4mF/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		]
 	},
-	// {
-	// 	number: 10, title: "Rackette Concept Review!", outDate: "Nov. 7-8", active: false,
-	// 	links: [
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	]
-	// },
-	// {
-	// 	number: 11, title: "Analysis", outDate: "Nov. 21-22", active: false,
-	// 	links: [
-	// 		{ icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 	]
-	// },
-	// {
-	// 	number: 12, title: "Final Review Workshop", outDate: "Nov. 28-29", active: false,
-	// 	links: [
-	// 		// { icon: <FaFilePowerpoint />, link: "", label: "Slides" },
-	// 		{ icon: <FaYoutube />, link: "", label: "Recording" },
-	// 	]
-	// },
+	{
+		number: 9, title: "Rackette Concept Review!", outDate: "Nov. 7-8", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1DAbfxzupsb0AKbo5NY994-vVe_4i1dBUL8Za536JOI8/edit?usp=sharing", label: "Slides" },
+		]
+	},
+	{
+		number: 10, title: "Debugging, Modules, and Trees", outDate: "Nov. 21-22", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1jpVatYFmzScxxGshxC8JA6OPA3NR2h57NbP0Ig1ALKg/edit?usp=sharing", label: "Slides" },
+		]
+	},
+	{
+		number: 11, title: "Analysis", outDate: "Nov. 28-29", active: true,
+		links: [
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1JR5vCW___7HQEDJTMYWvlybFlMOZoNZO3DXkJYBBjoE/edit?usp=sharing", label: "Slides" },
+			// { icon: <FaYoutube />, link: "", label: "Recording" },
+		]
+	},
 ]
 
 export default workshops;
