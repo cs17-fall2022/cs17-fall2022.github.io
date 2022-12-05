@@ -323,6 +323,15 @@ const classes = [
 			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cb68363f-dbb3-40f7-8608-af1000ecc7f5", label: "Recording" },
 			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1jn3ObWwyw1ESIpUsCMj-Akf0wO8okLd3/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
 		],
+		tags: []
+	},
+	{
+		number: 37, title: "Review", outDate: "Dec. 5", active: true,
+		links: [
+			// { icon: <FaFileAlt/>, link: "", label: "Notes" },
+			{ icon: <FaYoutube />, link: "https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3020bbb-3115-4a3f-985e-af1000ecc81b", label: "Recording" },
+			{ icon: <FaFilePowerpoint />, link: "https://docs.google.com/presentation/d/1brpwDPCYcX1iWUl5nf9OIrOJRzOu-CFU/edit?usp=sharing&ouid=102918815439366304366&rtpof=true&sd=true", label: "Slides" },
+		],
 		tags: ["Exam Review"]
 	},
 ]
