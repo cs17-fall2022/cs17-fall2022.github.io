@@ -117,6 +117,12 @@ class HomePage extends React.Component {
 							<p><mark>Announcements: </mark>
 							<br/>
 							- Everyone must wear a mask during class.
+							<br/>
+							- The Final Exam has just been released! It is due Friday 12/9 at 4 PM. 
+							<br/>
+							- Good luck on the final everyone!! We're all rooting for you :D!!
+							<br/>
+							- The Game Tournament will be Wednesday during class time!
 							</p>
 						</div>
 					</div>

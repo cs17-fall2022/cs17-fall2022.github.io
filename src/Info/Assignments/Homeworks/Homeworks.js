@@ -68,10 +68,10 @@ const homeworks = [
 		]
 	},
 	{
-		number: 11, title: "Final Exam", dueDate: "Dec. 9, 3 p.m. EST", active: false,
+		number: 11, title: "Final Exam", dueDate: "Dec. 9, 4 p.m. EST", active: true,
 		links: [
-			{ icon: <FaFileAlt />, link: "", label: "Handout" },
-			{ icon: <FaCode />, link: "", label: "Source Code" },
+			{ icon: <FaFileAlt />, link: "https://drive.google.com/file/d/1a9aNUIx_pxNvrjGYok-ki9aWMHazCinz/view?usp=sharing", label: "Handout" },
+			{ icon: <FaCode />, link: "https://drive.google.com/drive/folders/16Te-15wNcJ0IPAzD7hhHHxqzo9GImdV9?usp=sharing", label: "Source Code" },
 		]
 	}
 ]
